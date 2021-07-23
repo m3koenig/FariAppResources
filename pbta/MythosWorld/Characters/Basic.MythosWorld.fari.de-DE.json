@@ -1,6 +1,6 @@
 {
     "name": "Mythos World Template",
-    "lastUpdated": 1627076960,
+    "lastUpdated": 1627077086,
     "wide": true,
     "pages": [
         {
@@ -445,14 +445,14 @@
                         "blocks": [
                             {
                                 "id": "da667cbb-ae68-436c-a821-f986ec748296",
-                                "label": "[_] [BERUFSSPEZIFISCH] (+AT)",
+                                "label": "[X] [BERUFSSPEZIFISCH] (+AT)",
                                 "type": "Text",
                                 "value": "",
                                 "meta": {}
                             },
                             {
                                 "id": "27819ca5-a55e-4ac9-88cd-265171f2f21e",
-                                "label": "[_] [BERUFSSPEZIFISCH] (+AT)",
+                                "label": "[X] [BERUFSSPEZIFISCH] (+AT)",
                                 "type": "Text",
                                 "value": "",
                                 "meta": {}
