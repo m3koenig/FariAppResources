@@ -1,6 +1,6 @@
 {
     "name": "Mythos World Template",
-    "lastUpdated": 1627074490,
+    "lastUpdated": 1627074840,
     "wide": true,
     "pages": [
         {
@@ -34,7 +34,7 @@
                                 "id": "63c52c9a-7275-49ac-8153-cb6c6b5fd3a5",
                                 "label": "AUSSEHEN",
                                 "type": "Text",
-                                "value": "<b>Blick: [BERUFSSPEZIFISCH]\n</b>Kleidung: [BERUFSSPEZIFISCH]\nDetail: [BERUFSSPEZIFISCH]\n\n",
+                                "value": "<b>Blick: </b>[BERUFSSPEZIFISCH]<b>\nKleidung:</b> [BERUFSSPEZIFISCH]\n<b>Detail:</b> [BERUFSSPEZIFISCH]\n\n",
                                 "meta": {
                                     "width": 1
                                 }
