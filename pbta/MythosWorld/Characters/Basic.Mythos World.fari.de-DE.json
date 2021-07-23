@@ -1,7 +1,7 @@
 {
     "name": "Mythos World Template",
-    "lastUpdated": 1627068303,
-    "wide": true,
+    "lastUpdated": 1627068716,
+    "wide": false,
     "pages": [
         {
             "id": "3c9177c5-8b6c-4dc9-9b69-e1d16fd690c2",
@@ -17,7 +17,7 @@
                                 "label": "Bild",
                                 "type": "Image",
                                 "meta": {
-                                    "width": 1
+                                    "width": 0.5
                                 },
                                 "value": ""
                             },
@@ -32,27 +32,9 @@
                             },
                             {
                                 "id": "63c52c9a-7275-49ac-8153-cb6c6b5fd3a5",
-                                "label": "Blick",
+                                "label": "AUSSEHEN",
                                 "type": "Text",
-                                "value": "[BERUFSSPEZIFISCH]",
-                                "meta": {
-                                    "width": 0.5
-                                }
-                            },
-                            {
-                                "id": "0eb14b6f-100a-4c58-aa6f-b3feb2d90940",
-                                "label": "Kleidung",
-                                "type": "Text",
-                                "value": "[BERUFSSPEZIFISCH]",
-                                "meta": {
-                                    "width": 0.5
-                                }
-                            },
-                            {
-                                "id": "b7caedd1-e829-4d25-846d-c1dd1ceaaf4a",
-                                "label": "Detail",
-                                "type": "Text",
-                                "value": "[BERUFSSPEZIFISCH]",
+                                "value": "<b>Blick: </b>[BERUFSSPEZIFISCH]\n<b>Kleidung: </b>[BERUFSSPEZIFISCH]\n<b>Detail: </b>[BERUFSSPEZIFISCH]\n",
                                 "meta": {
                                     "width": 1
                                 }
