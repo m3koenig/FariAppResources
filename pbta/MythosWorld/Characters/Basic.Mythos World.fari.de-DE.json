@@ -1,6 +1,6 @@
 {
     "name": "Mythos World Template",
-    "lastUpdated": 1627073468,
+    "lastUpdated": 1627074360,
     "wide": true,
     "pages": [
         {
@@ -607,6 +607,34 @@
             "sections": {
                 "left": [
                     {
+                        "id": "fb80a968-c7fa-4715-8232-a06edc9c4db0",
+                        "label": "Links",
+                        "blocks": [
+                            {
+                                "id": "84993c24-baeb-4517-abbc-c4fb8eb80287",
+                                "label": "",
+                                "type": "Link",
+                                "meta": {
+                                    "hasDisplayName": false,
+                                    "helperText": "Mythos World - Regeln"
+                                },
+                                "value": "https://www.system-matters.de/shop/mythos-world/"
+                            },
+                            {
+                                "id": "2fe2f295-6c92-431c-873f-7f5f5e611dcc",
+                                "label": "",
+                                "type": "Link",
+                                "meta": {
+                                    "hasDisplayName": false,
+                                    "helperText": "Investigatoren Portrait (Pinterest)"
+                                },
+                                "value": "https://www.pinterest.de/search/pins/?q=Cthulhu%20Investigators%20Portait&rs=typed&term_meta[]=Cthulhu%7Ctyped&term_meta[]=Investigators%7Ctyped&term_meta[]=Portait%7Ctyped"
+                            }
+                        ]
+                    }
+                ],
+                "right": [
+                    {
                         "id": "0c048bc6-353b-4a06-83d7-8653775a5fbb",
                         "label": "Download",
                         "blocks": [
@@ -622,8 +650,7 @@
                             }
                         ]
                     }
-                ],
-                "right": []
+                ]
             },
             "label": "Referenzen"
         }
