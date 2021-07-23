@@ -1,6 +1,6 @@
 {
     "name": "Mythos World Template",
-    "lastUpdated": 1627078018,
+    "lastUpdated": 1627078282,
     "wide": true,
     "pages": [
         {
@@ -217,7 +217,7 @@
                                 "id": "9e2a2dc1-c220-4673-869e-5ca1977b5cdc",
                                 "label": "GRUNDSPIELZÜGE",
                                 "type": "Text",
-                                "value": "<b>Wissen kundtun (+IN, S.43)\nWahrheit erkennen(+IN, S.45)\nÜberzeugen(+EM, S46)\nSchießen(+GE, S.47)\nSchlagen(+ST, S.48)\nDer Gefahr trotzen (S.49)\nHelfen oder Hindern(+Beziehungen, S.53)\nDer Angst stellen(+WI, S.50)\nDem Tod entrinnen(+ST, S.52)\nGeld erhalten(S.54)\nEtwas kaufen(S.54)\nAusruhen(S.55)</b>\n",
+                                "value": "<b>[X] Wissen kundtun (+IN, S.43)\n[X] Wahrheit erkennen(+IN, S.45)\n[X] Überzeugen(+EM, S46)\n[X] Schießen(+GE, S.47)\n[X] Schlagen(+ST, S.48)\n[X] Der Gefahr trotzen (S.49)\n[X] Helfen oder Hindern(+Beziehungen, S.53)\n[X] Der Angst stellen(+WI, S.50)\n[X] Dem Tod entrinnen(+ST, S.52)\n[X] Geld erhalten(S.54)\n[X] Etwas kaufen(S.54)\n[X] Ausruhen(S.55)</b>\n",
                                 "meta": {
                                     "width": 1
                                 }
@@ -226,7 +226,7 @@
                                 "id": "92cbb009-2f72-4fef-ae2b-5ad271c16b0f",
                                 "label": "Berufsspielzüge (Beruf)",
                                 "type": "Text",
-                                "value": "<b>BERUFSSPEZIFISCH\nBERUFSSPEZIFISCH\n</b>BERUFSSPEZIFISCH\nBERUFSSPEZIFISCH\nBERUFSSPEZIFISCH\nBERUFSSPEZIFISCH\nBERUFSSPEZIFISCH\nBERUFSSPEZIFISCH\n",
+                                "value": "<b>[X] BERUFSSPEZIFISCH\n[X] BERUFSSPEZIFISCH\n</b>[_] BERUFSSPEZIFISCH\n[_] BERUFSSPEZIFISCH\n[_] BERUFSSPEZIFISCH\n[_] BERUFSSPEZIFISCH\n[_] BERUFSSPEZIFISCH\n[_] BERUFSSPEZIFISCH\n",
                                 "meta": {
                                     "width": 1
                                 }
