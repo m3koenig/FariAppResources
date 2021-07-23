@@ -1,6 +1,6 @@
 {
     "name": "Mythos World Template",
-    "lastUpdated": 1627078282,
+    "lastUpdated": 1627079430,
     "wide": true,
     "pages": [
         {
@@ -9,19 +9,25 @@
             "sections": {
                 "left": [
                     {
+                        "id": "021d53b1-a8a8-4f9a-b97a-8ac6f7d0e741",
+                        "label": "Beruf",
+                        "blocks": [
+                            {
+                                "id": "f96e069e-2a76-47fc-b9cb-9cd15f8c9b98",
+                                "label": "[BERUFSNAME]",
+                                "type": "Text",
+                                "value": "[BERUFSSPEZIFISCH]",
+                                "meta": {
+                                    "helperText": "Namensvorschläge: [BERUFSSPEZIFISCH]"
+                                }
+                            }
+                        ],
+                        "visibleOnCard": true
+                    },
+                    {
                         "id": "fccf7b1c-476e-4a55-9b0d-45da5ef92a1a",
                         "label": "FIGUR",
                         "blocks": [
-                            {
-                                "id": "e48e1250-ebbf-4904-a952-a4b38b09a75d",
-                                "label": "Beruf",
-                                "type": "Text",
-                                "value": "",
-                                "meta": {
-                                    "width": 1,
-                                    "helperText": "Namensvorschläge: [BERUFSSPEZIFISCH]"
-                                }
-                            },
                             {
                                 "id": "69d80256-8cbe-41e5-850b-306cd2356d12",
                                 "label": "Bild",
@@ -47,7 +53,8 @@
                                 "value": "A [BERUFSSPEZIFISCH]\nB [BERUFSSPEZIFISCH]\nC [BERUFSSPEZIFISCH]\n",
                                 "meta": {}
                             }
-                        ]
+                        ],
+                        "visibleOnCard": false
                     }
                 ],
                 "right": [
@@ -76,7 +83,8 @@
                                 "value": "",
                                 "meta": {}
                             }
-                        ]
+                        ],
+                        "visibleOnCard": false
                     },
                     {
                         "id": "31421f73-f585-4419-8048-074d1fdf44c8",
@@ -89,7 +97,8 @@
                                 "value": "",
                                 "meta": {}
                             }
-                        ]
+                        ],
+                        "visibleOnCard": true
                     },
                     {
                         "id": "4baeaf2d-3142-48d8-a5bb-cb8b8bfd9547",
@@ -200,7 +209,8 @@
                                     }
                                 ]
                             }
-                        ]
+                        ],
+                        "visibleOnCard": false
                     }
                 ]
             }
@@ -319,7 +329,8 @@
                                     "helperText": "Stärke"
                                 }
                             }
-                        ]
+                        ],
+                        "visibleOnCard": true
                     }
                 ]
             },
@@ -435,7 +446,8 @@
                                 "value": "Wenn <b>eine Spielsitzung zu Ende ist</b>, gehe die folgende Liste durch und führe alle zutreffenden Aktionen aus.\n\n⛧ Erhöhe den Grad der Symptome aller Krankheiten, die noch nicht ihr Maximum erreicht haben, um 1.\n⛧ <i>Zahltag</i>: Falls du in der vergangenen Woche deinem regulären Beruf nachgehen konntest, kreuze alle leeren Geldkästchen an, die niedriger oder gleich deinem <i>Vermögen </i>sind. In jedem Fall musst du anschließend aber Kredite und Investitionen verrechnen.\n⛧ Falls deine <i>Leidenschaft </i>wenigstens eine wichtige Entscheidung oder Handlung bestimmt hat, erhältst du einen Erfahrungspunkt.\n⛧ Falls deine <i>Beziehungen </i>wenigstens eine wichtige Entscheidung oder Handlung bestimmt haben, erhältst du einen Erfahrungspunkt.\n⛧ Du kannst deine <i>Beziehungen </i>ändern, wenn du möchtest.\n⛧ Falls du etwas Neues entdeckt oder erlebt hast, das über normales menschliches Wissen hinausgeht, erhältst du einen Erfahrungspunkt.\n⛧ Falls du eine <i>mittlere </i>oder <i>schwere </i>Geistesstörung erlitten hast, erhältst du einen Erfahrungspunkt.\n⛧ Falls du eine <i>mittlere </i>oder <i>schwere </i>Verletzung erlitten hast, erhältst du einen Erfahrungspunkt.\n⛧ Falls du 10 Erfahrungspunkte hast, kannst du sie ausgeben, um entweder ein Attribut um 1 zu erhöhen (das Maximum liegt bei +2) oder einen neuen Berufsspielzug von deinem Figurenbogen auszuwählen.\n\n",
                                 "meta": {}
                             }
-                        ]
+                        ],
+                        "visibleOnCard": false
                     }
                 ],
                 "right": [
@@ -499,7 +511,8 @@
                                 "value": "",
                                 "meta": {}
                             }
-                        ]
+                        ],
+                        "visibleOnCard": false
                     }
                 ]
             },
@@ -549,7 +562,8 @@
                                     "width": 1
                                 }
                             }
-                        ]
+                        ],
+                        "visibleOnCard": true
                     }
                 ],
                 "right": [
@@ -597,7 +611,8 @@
                                     "helperText": "amputierte Gliedmaße, Blindheit, Stichwunde im Auge, Bauchschuss, eingenommenes Nervengift, großflächige Verbrennungen dritten Grades, zerquetschte Brust, bei lebendigem Leib gehäutet<br><br><br>Wenn eine Spielfigur durch eine Kreatur oder Waffe mit der Eigenschaft Kritisch vollen Schaden erleidet, muss sie erfolgreich \"Dem Tod entrinnen\", sonst stirbt sie.\n<br>Wenn eine Spielfigur bereits zwei schwere Verletzungen hat und eine weitere erleidet, erwäge, eine davon auf kritisch zu erhöhen oder sie permanent zu machen.<br><br>Eine Spielfigur sollte nicht mehr als zwei\n<br>Verletzungen gleichen Grades haben (Leicht, Mittel etc.) oder insgesamt nicht mehr als fünf Verletzungen\n<br>Ist diese Schwelle erreicht, sollte die nächste Verletzungen um 1 Grad höher sein als eine der bestehenden oder eine der Verletzungen sollte permanent werden.<br>"
                                 }
                             }
-                        ]
+                        ],
+                        "visibleOnCard": true
                     }
                 ]
             },
