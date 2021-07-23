@@ -1,6 +1,6 @@
 {
     "name": "Mythos World Template",
-    "lastUpdated": 1627077086,
+    "lastUpdated": 1627078018,
     "wide": true,
     "pages": [
         {
@@ -555,7 +555,7 @@
                 "right": [
                     {
                         "id": "3d7488df-7070-4460-870c-78cec589da7b",
-                        "label": "Verletzungen, Gifte \r\nund Krankheiten\n",
+                        "label": "Verletzungen, Gifte &amp; Krankheiten\n",
                         "blocks": [
                             {
                                 "id": "e465db9a-45a1-4760-a7b5-59e2cb7a5e44",
