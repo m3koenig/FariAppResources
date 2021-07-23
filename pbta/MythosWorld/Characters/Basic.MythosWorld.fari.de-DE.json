@@ -1,6 +1,6 @@
 {
     "name": "Mythos World Template",
-    "lastUpdated": 1627076813,
+    "lastUpdated": 1627076960,
     "wide": true,
     "pages": [
         {
@@ -18,7 +18,8 @@
                                 "type": "Text",
                                 "value": "",
                                 "meta": {
-                                    "width": 1
+                                    "width": 1,
+                                    "helperText": "Namensvorschläge: [BERUFSSPEZIFISCH]"
                                 }
                             },
                             {
