@@ -1,6 +1,6 @@
 {
     "name": "Mythos World Template",
-    "lastUpdated": 1627073346,
+    "lastUpdated": 1627073468,
     "wide": true,
     "pages": [
         {
@@ -345,14 +345,14 @@
                                 "id": "c08dc8b4-6b5b-4592-8173-39a11cc6419f",
                                 "label": "[X] Wissen kundtun (+IN)",
                                 "type": "Text",
-                                "value": "Wenn du auf <b>Wissen über etwas zurückgreifst</b>, würfle <b>+IN</b>.\n\n<b>* Bei einer 10+</b> wird die SL dir etwas Interessantes und Nützliches über das Thema mitteilen.\n<b>* Bei einer 7–9</b> wird die SL dir etwas Interessantes mitteilen, das aber nicht unmittelbar nützlich sein muss.\nIn beiden Fällen kann die SL dich auffordern zu erzählen, woher du dieses Wissen hast.\n",
+                                "value": "Wenn du auf <b>Wissen über etwas zurückgreifst</b>, würfle <b>+IN</b>.\n\n<b>* Bei einer 10+</b> wird die SL dir etwas Interessantes und Nützliches über das Thema mitteilen.\n<b>* Bei einer 7–9</b> wird die SL dir etwas Interessantes mitteilen, das aber nicht unmittelbar nützlich sein muss.\nIn beiden Fällen kann die SL dich auffordern zu erzählen, woher du dieses Wissen hast.\n\n",
                                 "meta": {}
                             },
                             {
                                 "id": "3589c166-0f9e-4223-81c7-e41d3235ebdf",
                                 "label": "[X] Wahrheit erkennen (+EM)",
                                 "type": "Text",
-                                "value": "Wenn du <b>versuchst, die Wahrheit herauszufinden, indem du eine Person beobachtest oder dich mit ihr unterhältst</b>, würfle <b>+EM</b>.\n\n<b>* Bei einer 10+</b> wähle 2 der folgenden Fragen, die die SL dir wahrheitsgemäß beantwortet.\n<b>* Bei einer 7–9 </b>erleidest du einen Rückschlag oder verlierst das Vertrauen einer NF (SL entscheidet). Wähle außerdem 1 der  folgenden Fragen, die die SL dir wahrheitsgemäß beantwortet:\n\n⛧ Wer hat hier das Sagen?\n⛧ Was will die Person wirklich?\n⛧ Was denkt die Person über meine Spielfigur?\n⛧ Was ist hier zuvor passiert?\n⛧ Was wird hier vermutlich als nächstes passieren?\n",
+                                "value": "Wenn du <b>versuchst, die Wahrheit herauszufinden, indem du eine Person beobachtest oder dich mit ihr unterhältst</b>, würfle <b>+EM</b>.\n\n<b>* Bei einer 10+</b> wähle 2 der folgenden Fragen, die die SL dir wahrheitsgemäß beantwortet.\n<b>* Bei einer 7–9 </b>erleidest du einen Rückschlag oder verlierst das Vertrauen einer NF (SL entscheidet). Wähle außerdem 1 der  folgenden Fragen, die die SL dir wahrheitsgemäß beantwortet:\n\n⛧ Wer hat hier das Sagen?\n⛧ Was will die Person wirklich?\n⛧ Was denkt die Person über meine Spielfigur?\n⛧ Was ist hier zuvor passiert?\n⛧ Was wird hier vermutlich als nächstes passieren?\n\n",
                                 "meta": {}
                             },
                             {
@@ -366,21 +366,21 @@
                                 "id": "c7610d32-3910-448f-b00b-1705cf16471c",
                                 "label": "[X] Schießen (+GE)",
                                 "type": "Text",
-                                "value": "Wenn du <b>versuchst, mit einer Fernkampfwaffe Schaden anzurichten</b>, würfle <b>+GE</b>.\n\n<b>* Bei einer 10+</b> verletzt du dein Ziel.\n<b>* Bei einer 7–9</b> verletzt du dein Ziel und wählst 1:\n  ⛧ Die angerichtete Verletzung ist um 1 Grad niedriger.\n  ⛧ Du verlierst Munition oder wertvolle Ausrüstung.\n  ⛧ Du erleidest Schaden durch das Ziel oder seine Verbündeten.\n",
+                                "value": "Wenn du <b>versuchst, mit einer Fernkampfwaffe Schaden anzurichten</b>, würfle <b>+GE</b>.\n\n<b>* Bei einer 10+</b> verletzt du dein Ziel.\n<b>* Bei einer 7–9</b> verletzt du dein Ziel und wählst 1:\n  ⛧ Die angerichtete Verletzung ist um 1 Grad niedriger.\n  ⛧ Du verlierst Munition oder wertvolle Ausrüstung.\n  ⛧ Du erleidest Schaden durch das Ziel oder seine Verbündeten.\n\n",
                                 "meta": {}
                             },
                             {
                                 "id": "280ebac5-1d40-4ad8-a0e5-e5df82d675a0",
                                 "label": "[X] Schlagen (+ST)",
                                 "type": "Text",
-                                "value": "Wenn du <b>versuchst, im Nahkampf Schaden anzurichten</b>, würfle <b>+ST</b>.\n\n<b>* Bei einer 10+</b> verletzt du dein Ziel. Du kannst den verursachten Schaden um 1 Grad erhöhen, wenn du in Kauf nimmst, selbst verletzt zu werden.\n<b>* Bei einer 7–9 </b>verletzt du dein Ziel und wählst 1:\n  ⛧ Dein Ziel verletzt dich.\n  ⛧ Du verlierst wertvolle Ausrüstung.\n  ⛧ Die Gefahr wird größer.\n",
+                                "value": "Wenn du <b>versuchst, im Nahkampf Schaden anzurichten</b>, würfle <b>+ST</b>.\n\n<b>* Bei einer 10+</b> verletzt du dein Ziel. Du kannst den verursachten Schaden um 1 Grad erhöhen, wenn du in Kauf nimmst, selbst verletzt zu werden.\n<b>* Bei einer 7–9 </b>verletzt du dein Ziel und wählst 1:\n  ⛧ Dein Ziel verletzt dich.\n  ⛧ Du verlierst wertvolle Ausrüstung.\n  ⛧ Die Gefahr wird größer.\n\n",
                                 "meta": {}
                             },
                             {
                                 "id": "9e58c576-e62d-4456-a2ef-27a6aeb9083d",
                                 "label": "[X] Der Gefahr trotzen",
                                 "type": "Text",
-                                "value": "Wenn du <b>versuchst, drohender Gefahr zu entgehen oder ein Hindernis zu überwinden</b>, entscheide, wie du das tun willst:\n  ⛧ Für rohe Kraft würfle <b>+ST</b>.\n  ⛧ Für schnelles Ausweichen würfle <b>+GE</b>.\n  ⛧ Für geistigen Widerstand würfle <b>+WI</b>.\n  ⛧ Für Charme oder gute Umgangsformen würfle <b>+EM</b>.\n  ⛧ Für kluge Ideen würfle <b>+IN</b>.\n\n<b>* Bei einer 10+</b> entgehst du der Gefahr.\n<b>* Bei einer 7–9</b> entgehst du der Gefahr, aber du zögerst oder machst einen Fehltritt. Die SL bietet dir 2 an, zwischen denen du dich entscheiden musst:\n  ⛧ Die Gefahr betrifft dich, aber in geringerem Ausmaß.\n  ⛧ Du verlierst wertvolle Ausrüstung.\n  ⛧ Die Gefahr für dich und deine Verbündeten wird größer.\n  ⛧ Du wirst mit einer schrecklichen Situation konfrontiert.\n",
+                                "value": "Wenn du <b>versuchst, drohender Gefahr zu entgehen oder ein Hindernis zu überwinden</b>, entscheide, wie du das tun willst:\n  ⛧ Für rohe Kraft würfle <b>+ST</b>.\n  ⛧ Für schnelles Ausweichen würfle <b>+GE</b>.\n  ⛧ Für geistigen Widerstand würfle <b>+WI</b>.\n  ⛧ Für Charme oder gute Umgangsformen würfle <b>+EM</b>.\n  ⛧ Für kluge Ideen würfle <b>+IN</b>.\n\n<b>* Bei einer 10+</b> entgehst du der Gefahr.\n<b>* Bei einer 7–9</b> entgehst du der Gefahr, aber du zögerst oder machst einen Fehltritt. Die SL bietet dir 2 an, zwischen denen du dich entscheiden musst:\n  ⛧ Die Gefahr betrifft dich, aber in geringerem Ausmaß.\n  ⛧ Du verlierst wertvolle Ausrüstung.\n  ⛧ Die Gefahr für dich und deine Verbündeten wird größer.\n  ⛧ Du wirst mit einer schrecklichen Situation konfrontiert.\n\n",
                                 "meta": {
                                     "width": 1
                                 }
@@ -396,7 +396,7 @@
                                 "id": "5775ee0b-8659-4f80-aebb-38f1fb3fca34",
                                 "label": "[X] Der Angst stellen (+WI)",
                                 "type": "Text",
-                                "value": "Wenn du <b style=\"\">mit <i>furchteinflößenden </i>Kreaturen, Situationen oder Enthüllungen konfrontiert wirst</b>, würfle <b>+WI</b>.\n\n<b>* Bei einer 10+</b> widerstehst du der Angst in dieser und in allen ähnlichen Situationen der laufenden Spielsitzung.\n<b>* Bei einer 7–9</b> widerstehst du der Angst in dieser Situation, aber wählst 1:\n  ⛧ Du erleidest eine Geistesstörung, deren Grad 1 niedriger ist als der Bedrohungsgrad.\n  ⛧ Du erleidest eine mittlere Verletzung.\n  ⛧ Du vergrößerst die Bedrohung.\n  ⛧ Du rennst kopflos davon.\n  ⛧ Du verlierst wertvolle Ausrüstung.\n\n<b>Bei einer 6-</b> kann die SL entscheiden, dass du eine passende Geistesstörung erleidest, deren Grad die Höhe des Bedrohungsgrads des Gegenstands oder Wesens hat.\n",
+                                "value": "Wenn du <b style=\"\">mit <i>furchteinflößenden </i>Kreaturen, Situationen oder Enthüllungen konfrontiert wirst</b>, würfle <b>+WI</b>.\n\n<b>* Bei einer 10+</b> widerstehst du der Angst in dieser und in allen ähnlichen Situationen der laufenden Spielsitzung.\n<b>* Bei einer 7–9</b> widerstehst du der Angst in dieser Situation, aber wählst 1:\n  ⛧ Du erleidest eine Geistesstörung, deren Grad 1 niedriger ist als der Bedrohungsgrad.\n  ⛧ Du erleidest eine mittlere Verletzung.\n  ⛧ Du vergrößerst die Bedrohung.\n  ⛧ Du rennst kopflos davon.\n  ⛧ Du verlierst wertvolle Ausrüstung.\n\n<b>Bei einer 6-</b> kann die SL entscheiden, dass du eine passende Geistesstörung erleidest, deren Grad die Höhe des Bedrohungsgrads des Gegenstands oder Wesens hat.\n\n",
                                 "meta": {}
                             },
                             {
@@ -410,21 +410,21 @@
                                 "id": "067c4cc7-9445-4961-bed8-98cf0135863f",
                                 "label": "[X] Geld erhalten",
                                 "type": "Text",
-                                "value": "Wenn du <b>etwas verkaufst oder Geld als Bezahlung erhältst</b>, kreuze das Geldkästchen auf deinem Figurenbogen an, dessen Wert der Höhe der Einnahme entspricht. Wenn es schon angekreuzt ist, kreuze ein beliebiges niedrigeres Geldkästchen an.",
+                                "value": "Wenn du <b>etwas verkaufst oder Geld als Bezahlung erhältst</b>, kreuze das Geldkästchen auf deinem Figurenbogen an, dessen Wert der Höhe der Einnahme entspricht. Wenn es schon angekreuzt ist, kreuze ein beliebiges niedrigeres Geldkästchen an.\n\n",
                                 "meta": {}
                             },
                             {
                                 "id": "995c5c22-f532-484d-8a96-8c11d6aacf69",
                                 "label": "[X] Etwas kaufen",
                                 "type": "Text",
-                                "value": "Wenn du <b>versuchst, etwas zu kaufen oder jemandem Geld zu geben</b>, dann radiere das Geldkästchen auf deinem Figurenbogen aus, dessen Wert dem des gekauften Gegenstands oder ausgegebenen Geldes entspricht. Wenn es schon ausradiert ist, radiere ein beliebiges höheres Geldkästchen aus. Wenn du kein Kästchen mehr ausradieren kannst, kannst du nichts kaufen und kein Geld ausgeben.",
+                                "value": "Wenn du <b>versuchst, etwas zu kaufen oder jemandem Geld zu geben</b>, dann radiere das Geldkästchen auf deinem Figurenbogen aus, dessen Wert dem des gekauften Gegenstands oder ausgegebenen Geldes entspricht. Wenn es schon ausradiert ist, radiere ein beliebiges höheres Geldkästchen aus. Wenn du kein Kästchen mehr ausradieren kannst, kannst du nichts kaufen und kein Geld ausgeben.\n\n",
                                 "meta": {}
                             },
                             {
                                 "id": "8f8189bc-3c4b-4fdf-a915-548aa4d893da",
                                 "label": "[X] Ausruhen",
                                 "type": "Text",
-                                "value": "Wenn du <b>einige Tage Zeit zum Ausruhen hast</b>, tue alles aus der folgenden Liste, das auf dich zutrifft.\n\n⛧ Falls du einige Tage ohne körperliche Anstrengung verbringst, senke den Grad einer <i>temporären</i> Verletzung um 1.\n⛧ Falls du einige Tage ohne körperliche Anstrengung verbringst, senke den Grad der Symptome für alle Krankheiten, die ihr Maximum erreicht haben, um 1.\n⛧ Falls du einige Tage ohne Stress verbringst, senke den Grad einer temporären Geistesstörung um 1.\n\n",
+                                "value": "Wenn du <b>einige Tage Zeit zum Ausruhen hast</b>, tue alles aus der folgenden Liste, das auf dich zutrifft.\n\n⛧ Falls du einige Tage ohne körperliche Anstrengung verbringst, senke den Grad einer <i>temporären</i> Verletzung um 1.\n⛧ Falls du einige Tage ohne körperliche Anstrengung verbringst, senke den Grad der Symptome für alle Krankheiten, die ihr Maximum erreicht haben, um 1.\n⛧ Falls du einige Tage ohne Stress verbringst, senke den Grad einer temporären Geistesstörung um 1.\n\n\n",
                                 "meta": {}
                             },
                             {
