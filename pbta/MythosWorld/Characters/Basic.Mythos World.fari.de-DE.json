@@ -1,6 +1,6 @@
 {
     "name": "Mythos World Template",
-    "lastUpdated": 1627072761,
+    "lastUpdated": 1627073346,
     "wide": true,
     "pages": [
         {
@@ -252,7 +252,7 @@
                                 "id": "948a33a5-8779-42d1-8b51-0b1a83174ba9",
                                 "label": "IN",
                                 "type": "Skill",
-                                "value": "2",
+                                "value": "0",
                                 "meta": {
                                     "commands": [
                                         "1d6",
@@ -266,7 +266,7 @@
                                 "id": "0f99a005-17a4-4823-9ccb-f1322f1561da",
                                 "label": "EM",
                                 "type": "Skill",
-                                "value": "-1",
+                                "value": "0",
                                 "meta": {
                                     "commands": [
                                         "1d6",
@@ -280,7 +280,7 @@
                                 "id": "a0bc6c38-a5fd-4159-90d2-01293049025e",
                                 "label": "WI",
                                 "type": "Skill",
-                                "value": "1",
+                                "value": "0",
                                 "meta": {
                                     "commands": [
                                         "1d6",
@@ -308,7 +308,7 @@
                                 "id": "c8654d3f-d63d-4c1d-8aaf-25bfe5ad3746",
                                 "label": "ST",
                                 "type": "Skill",
-                                "value": "1",
+                                "value": "0",
                                 "meta": {
                                     "commands": [
                                         "1d6",
