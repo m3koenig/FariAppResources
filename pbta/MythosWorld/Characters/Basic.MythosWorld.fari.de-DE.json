@@ -1,6 +1,6 @@
 {
     "name": "Mythos World Template",
-    "lastUpdated": 1627074840,
+    "lastUpdated": 1627076813,
     "wide": true,
     "pages": [
         {
@@ -612,23 +612,23 @@
                         "blocks": [
                             {
                                 "id": "84993c24-baeb-4517-abbc-c4fb8eb80287",
-                                "label": "",
+                                "label": "Mythos World - Regeln",
                                 "type": "Link",
                                 "meta": {
-                                    "hasDisplayName": false,
-                                    "helperText": "Mythos World - Regeln"
+                                    "hasDisplayName": true,
+                                    "helperText": ""
                                 },
                                 "value": "https://www.system-matters.de/shop/mythos-world/"
                             },
                             {
                                 "id": "2fe2f295-6c92-431c-873f-7f5f5e611dcc",
-                                "label": "",
+                                "label": "Investigatoren Portraits (Pinterest)",
                                 "type": "Link",
                                 "meta": {
-                                    "hasDisplayName": false,
-                                    "helperText": "Investigatoren Portrait (Pinterest)"
+                                    "hasDisplayName": true,
+                                    "helperText": ""
                                 },
-                                "value": "https://bit.ly/3eNKdBA"
+                                "value": "https://www.pinterest.de/search/pins/?q=Cthulhu%20Investigators%20Portait&rs=typed&term_meta[]=Cthulhu|typed&term_meta[]=Investigators|typed&term_meta[]=Portait|typed"
                             }
                         ]
                     }
@@ -640,11 +640,11 @@
                         "blocks": [
                             {
                                 "id": "cf825bd0-35e3-4f44-b837-26600ea46e85",
-                                "label": "",
+                                "label": "Ausfüllbare Figurenbögen - inkl. Grundspielzüge",
                                 "type": "Link",
                                 "meta": {
-                                    "hasDisplayName": false,
-                                    "helperText": "Ausfüllbare Figurenbögen - inkl. Grundspielzüge"
+                                    "hasDisplayName": true,
+                                    "helperText": ""
                                 },
                                 "value": "https://www.system-matters.de/download/ausfuellbare-figurenboegen/"
                             }
