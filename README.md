@@ -10,3 +10,4 @@ Here I try to create some Fari Resources for www.fari.app.
 - [Entertainer:in Mythos World Character - German](/pbta/MythosWorld/Characters/Entertainer_in.MythosWorld.fari.de-DE.json)
 - [Erb:in Mythos World Character - German](/pbta/MythosWorld/Characters/Erb_in.MythosWorld.fari.de-DE.json)
 - [Ermittler:in Mythos World Character - German](/pbta/MythosWorld/Characters/Ermittler_in.MythosWorld.fari.de-DE.json)
+- [Farmer:in Mythos World Character - German](/pbta/MythosWorld/Characters/Farmer_in.MythosWorld.fari.de-DE.json)
