@@ -67,21 +67,21 @@
                         "blocks": [
                             {
                                 "id": "4dd18ac7-ab05-4417-9b4a-8d18631f3e2c",
-                                "label": "3. [BERUFSSPEZIFISCH]",
-                                "type": "Text",
-                                "value": "",
-                                "meta": {}
-                            },
-                            {
-                                "id": "74a2f8fe-b834-4878-9ea6-eb6aa14d9ec5",
                                 "label": "1. [BERUFSSPEZIFISCH]",
                                 "type": "Text",
                                 "value": "",
                                 "meta": {}
                             },
                             {
-                                "id": "242f5b2f-5461-47b3-90e6-3bf49e3b708c",
+                                "id": "74a2f8fe-b834-4878-9ea6-eb6aa14d9ec5",
                                 "label": "2. [BERUFSSPEZIFISCH]",
+                                "type": "Text",
+                                "value": "",
+                                "meta": {}
+                            },
+                            {
+                                "id": "242f5b2f-5461-47b3-90e6-3bf49e3b708c",
+                                "label": "3. [BERUFSSPEZIFISCH]",
                                 "type": "Text",
                                 "value": "",
                                 "meta": {}
