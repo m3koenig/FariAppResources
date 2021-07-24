@@ -1,6 +1,6 @@
 {
     "name": "Mythos World - Basis Figur Template",
-    "lastUpdated": 1627137465,
+    "lastUpdated": 1627138088,
     "wide": true,
     "pages": [
         {
@@ -8,6 +8,57 @@
             "label": "Figur",
             "sections": {
                 "left": [
+                    {
+                        "id": "fccf7b1c-476e-4a55-9b0d-45da5ef92a1a",
+                        "label": "FIGUR",
+                        "blocks": [
+                            {
+                                "id": "69d80256-8cbe-41e5-850b-306cd2356d12",
+                                "label": "Bild",
+                                "type": "Image",
+                                "meta": {
+                                    "width": 1
+                                },
+                                "value": "https://i0.wp.com/www.teilzeithelden.de/wp-content/uploads/2021/03/Mythos-World-Cover.jpg?resize=281%2C420&ssl=1"
+                            },
+                            {
+                                "id": "63c52c9a-7275-49ac-8153-cb6c6b5fd3a5",
+                                "label": "AUSSEHEN",
+                                "type": "Text",
+                                "value": "<b>Blick: </b>[BERUFSSPEZIFISCH]<b>\nKleidung:</b> [BERUFSSPEZIFISCH]\n<b>Detail:</b> [BERUFSSPEZIFISCH]\n\n",
+                                "meta": {
+                                    "width": 1,
+                                    "helperText": "Wähle je 1 oder denke dir selbst etwas aus"
+                                }
+                            },
+                            {
+                                "id": "56789e4f-cc17-4013-80b8-79d1652cced9",
+                                "label": "Leidenschaft",
+                                "type": "Text",
+                                "value": "A [BERUFSSPEZIFISCH]\nB [BERUFSSPEZIFISCH]\nC [BERUFSSPEZIFISCH]\n",
+                                "meta": {
+                                    "helperText": "Wähle 1 und lösche die anderen"
+                                }
+                            }
+                        ],
+                        "visibleOnCard": false
+                    },
+                    {
+                        "id": "31421f73-f585-4419-8048-074d1fdf44c8",
+                        "label": "Ausrüstung",
+                        "blocks": [
+                            {
+                                "id": "fb0366f1-c7a4-44da-b596-8e7f6c01e0a8",
+                                "label": "",
+                                "type": "Text",
+                                "value": "",
+                                "meta": {}
+                            }
+                        ],
+                        "visibleOnCard": true
+                    }
+                ],
+                "right": [
                     {
                         "id": "021d53b1-a8a8-4f9a-b97a-8ac6f7d0e741",
                         "label": "Beruf",
@@ -168,57 +219,6 @@
                             }
                         ],
                         "visibleOnCard": false
-                    }
-                ],
-                "right": [
-                    {
-                        "id": "fccf7b1c-476e-4a55-9b0d-45da5ef92a1a",
-                        "label": "FIGUR",
-                        "blocks": [
-                            {
-                                "id": "69d80256-8cbe-41e5-850b-306cd2356d12",
-                                "label": "Bild",
-                                "type": "Image",
-                                "meta": {
-                                    "width": 1
-                                },
-                                "value": "https://i0.wp.com/www.teilzeithelden.de/wp-content/uploads/2021/03/Mythos-World-Cover.jpg?resize=281%2C420&ssl=1"
-                            },
-                            {
-                                "id": "63c52c9a-7275-49ac-8153-cb6c6b5fd3a5",
-                                "label": "AUSSEHEN",
-                                "type": "Text",
-                                "value": "<b>Blick: </b>[BERUFSSPEZIFISCH]<b>\nKleidung:</b> [BERUFSSPEZIFISCH]\n<b>Detail:</b> [BERUFSSPEZIFISCH]\n\n",
-                                "meta": {
-                                    "width": 1,
-                                    "helperText": "Wähle je 1 oder denke dir selbst etwas aus"
-                                }
-                            },
-                            {
-                                "id": "56789e4f-cc17-4013-80b8-79d1652cced9",
-                                "label": "Leidenschaft",
-                                "type": "Text",
-                                "value": "A [BERUFSSPEZIFISCH]\nB [BERUFSSPEZIFISCH]\nC [BERUFSSPEZIFISCH]\n",
-                                "meta": {
-                                    "helperText": "Wähle 1 und lösche die anderen"
-                                }
-                            }
-                        ],
-                        "visibleOnCard": false
-                    },
-                    {
-                        "id": "31421f73-f585-4419-8048-074d1fdf44c8",
-                        "label": "Ausrüstung",
-                        "blocks": [
-                            {
-                                "id": "fb0366f1-c7a4-44da-b596-8e7f6c01e0a8",
-                                "label": "",
-                                "type": "Text",
-                                "value": "",
-                                "meta": {}
-                            }
-                        ],
-                        "visibleOnCard": true
                     }
                 ]
             }
