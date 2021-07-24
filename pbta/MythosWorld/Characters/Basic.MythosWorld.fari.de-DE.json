@@ -43,7 +43,8 @@
                                 "type": "Text",
                                 "value": "<b>Blick: </b>[BERUFSSPEZIFISCH]<b>\nKleidung:</b> [BERUFSSPEZIFISCH]\n<b>Detail:</b> [BERUFSSPEZIFISCH]\n\n",
                                 "meta": {
-                                    "width": 1
+                                    "width": 1,
+                                    "helperText": "Wähle je 1 oder denke dir selbst etwas aus"
                                 }
                             },
                             {
@@ -51,7 +52,9 @@
                                 "label": "Leidenschaft",
                                 "type": "Text",
                                 "value": "A [BERUFSSPEZIFISCH]\nB [BERUFSSPEZIFISCH]\nC [BERUFSSPEZIFISCH]\n",
-                                "meta": {}
+                                "meta": {
+                                    "helperText": "Wähle 1 und lösche die anderen"
+                                }
                             }
                         ],
                         "visibleOnCard": false
@@ -109,7 +112,8 @@
                                 "label": "vErmögen",
                                 "type": "PointCounter",
                                 "meta": {
-                                    "isMainPointCounter": false
+                                    "isMainPointCounter": false,
+                                    "helperText": "Start: Setze 2 +IN"
                                 },
                                 "value": "0"
                             },
@@ -117,7 +121,9 @@
                                 "id": "3a4f55bc-718b-4748-982e-f78b55cd6a23",
                                 "label": "Aktuell",
                                 "type": "SlotTracker",
-                                "meta": {},
+                                "meta": {
+                                    "helperText": "Siehe Vermögen"
+                                },
                                 "value": [
                                     {
                                         "label": "1",
@@ -165,7 +171,9 @@
                                 "id": "30a88f6e-0f59-493b-8a83-7f03f957c597",
                                 "label": "ERFAHRUNGSPUNKTE",
                                 "type": "SlotTracker",
-                                "meta": {},
+                                "meta": {
+                                    "helperText": "Gib 10 Erfahrungspunkte aus, um ein Attribut um 1 zu erhöhen (max. +2)\n<br>oder einen neuen Berufsspielzug zu wählen.<br>"
+                                },
                                 "value": [
                                     {
                                         "label": "1",
