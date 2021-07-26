@@ -17,4 +17,5 @@ Here I try to create some Fari Resources for www.fari.app.
 - [Künstler:in Mythos World Character - German](/pbta/MythosWorld/Characters/Kuenstler_in.MythosWorld.fari.de-DE.json)
 - [Lehrer:in Mythos World Character - German](/pbta/MythosWorld/Characters/Lehrer_in.MythosWorld.fari.de-DE.json)
 - [Mediziner:in Mythos World Character - German](/pbta/MythosWorld/Characters/Mediziner_in.MythosWorld.fari.de-DE.json)
+- [Polizist:in Mythos World Character - German](/pbta/MythosWorld/Characters/Polizist_in.MythosWorld.fari.de-DE.json)
   
