@@ -1,0 +1,685 @@
+{
+    "name": "Mythos World - Schriftsteller:in Template",
+    "lastUpdated": 1628596362,
+    "wide": true,
+    "pages": [
+        {
+            "id": "3c9177c5-8b6c-4dc9-9b69-e1d16fd690c2",
+            "label": "Figur",
+            "sections": {
+                "left": [
+                    {
+                        "id": "fccf7b1c-476e-4a55-9b0d-45da5ef92a1a",
+                        "label": "FIGUR",
+                        "blocks": [
+                            {
+                                "id": "69d80256-8cbe-41e5-850b-306cd2356d12",
+                                "label": "Bild",
+                                "type": "Image",
+                                "meta": {
+                                    "width": 1
+                                },
+                                "value": "https://i0.wp.com/www.teilzeithelden.de/wp-content/uploads/2021/03/Mythos-World-Cover.jpg?resize=281%2C420&ssl=1"
+                            },
+                            {
+                                "id": "63c52c9a-7275-49ac-8153-cb6c6b5fd3a5",
+                                "label": "AUSSEHEN",
+                                "type": "Text",
+                                "value": "<b>Blick: </b>abwesend, empfindsam, getrieben, neugierig<b>\nKleidung: </b>unmodern, fein, achtlos, praktisch\n<b>Detail: </b>Hornbrille, Spazierstock, auffällige Krawatte, Ballonmütze\n\n",
+                                "meta": {
+                                    "width": 1,
+                                    "helperText": "Wähle je 1 oder denke dir selbst etwas aus"
+                                }
+                            },
+                            {
+                                "id": "56789e4f-cc17-4013-80b8-79d1652cced9",
+                                "label": "Leidenschaft",
+                                "type": "Text",
+                                "value": "Die wirklich großen Romane entstehen aus echtem Leid und echten Erfahrungen.\n\nOb man durch Schreiben zu Erfolg kommt, hängt von den richtigen Beziehungen ab.\r\n\nIch möchte den furchterregendsten Roman schreiben, der je verfasst wurde.\n\r\n",
+                                "meta": {
+                                    "helperText": "Wähle 1 und lösche die anderen"
+                                }
+                            }
+                        ],
+                        "visibleOnCard": false
+                    },
+                    {
+                        "id": "31421f73-f585-4419-8048-074d1fdf44c8",
+                        "label": "Ausrüstung",
+                        "blocks": [
+                            {
+                                "id": "fb0366f1-c7a4-44da-b596-8e7f6c01e0a8",
+                                "label": "",
+                                "type": "Text",
+                                "value": "- Notizbuch und Füllfederhalter\r\n- Schreibmaschine\n- Wähle 1: Makabres Nachschlagewerk (5 Anwendungen), Fahrrad, Bibliotheksausweis\n\r\n",
+                                "meta": {}
+                            }
+                        ],
+                        "visibleOnCard": true
+                    }
+                ],
+                "right": [
+                    {
+                        "id": "021d53b1-a8a8-4f9a-b97a-8ac6f7d0e741",
+                        "label": "Beruf",
+                        "blocks": [
+                            {
+                                "id": "f96e069e-2a76-47fc-b9cb-9cd15f8c9b98",
+                                "label": "Schriftsteller:in",
+                                "type": "Text",
+                                "value": "Du schreibst Romane oder Lyrik, vielleicht auch populärwissen-\nschaftliche Bücher über Okkultismus. Jede neue Begegnung ist für\ndich eine potenzielle Inspiration für dein nächstes Werk, und jede\nfreie Minute nutzt du zum Schreiben oder Überarbeiten deiner\nTexte. In gewissen Kreisen hast du es durchaus zu Ruhm gebracht und dein geschickter Umgang mit Worten kann auch in anderen Bereichen hilfreich sein.\n<b>EMPATHIE </b>ist ein wichtiges Attribut für dich.\n\n",
+                                "meta": {
+                                    "helperText": "Namensvorschläge:&nbsp;<br><b>USA:</b> Francis Moran, Mildred Senate, Loraine Einrichs, Raymond Holbrook Jr.\n<br><b>Deutschland:</b> Ludmilla Graf, Bernhard Freiberg, Florentine Behnke-Lauer, Adam Jacobi<br>"
+                                }
+                            }
+                        ],
+                        "visibleOnCard": true
+                    },
+                    {
+                        "id": "08ddfd5a-d832-4791-920d-d8bf5d2955b4",
+                        "label": "Beziehung",
+                        "blocks": [
+                            {
+                                "id": "4dd18ac7-ab05-4417-9b4a-8d18631f3e2c",
+                                "label": "Ich weiß, dass ______________ meine Bücher lieben würde.",
+                                "type": "Text",
+                                "value": "",
+                                "meta": {}
+                            },
+                            {
+                                "id": "74a2f8fe-b834-4878-9ea6-eb6aa14d9ec5",
+                                "label": "In meinem nächsten Roman will ich eine Figur auf ______________ aubauen.",
+                                "type": "Text",
+                                "value": "",
+                                "meta": {}
+                            },
+                            {
+                                "id": "242f5b2f-5461-47b3-90e6-3bf49e3b708c",
+                                "label": "______________ ist eine treue Seele und kann gut zuhören.",
+                                "type": "Text",
+                                "value": "",
+                                "meta": {}
+                            }
+                        ],
+                        "visibleOnCard": false
+                    },
+                    {
+                        "id": "4baeaf2d-3142-48d8-a5bb-cb8b8bfd9547",
+                        "label": "REssourcen",
+                        "blocks": [
+                            {
+                                "id": "e3993340-5897-44f3-af14-8509616ec2c5",
+                                "label": "vErmögen",
+                                "type": "PointCounter",
+                                "meta": {
+                                    "isMainPointCounter": false,
+                                    "helperText": "Start: Setze 1 +IN"
+                                },
+                                "value": "0"
+                            },
+                            {
+                                "id": "3a4f55bc-718b-4748-982e-f78b55cd6a23",
+                                "label": "Aktuell",
+                                "type": "SlotTracker",
+                                "meta": {
+                                    "helperText": "Siehe Vermögen"
+                                },
+                                "value": [
+                                    {
+                                        "label": "1",
+                                        "checked": false
+                                    },
+                                    {
+                                        "label": "2",
+                                        "checked": false
+                                    },
+                                    {
+                                        "label": "3",
+                                        "checked": false
+                                    },
+                                    {
+                                        "label": "4",
+                                        "checked": false
+                                    },
+                                    {
+                                        "label": "5",
+                                        "checked": false
+                                    },
+                                    {
+                                        "label": "6",
+                                        "checked": false
+                                    },
+                                    {
+                                        "label": "7",
+                                        "checked": false
+                                    },
+                                    {
+                                        "label": "8",
+                                        "checked": false
+                                    },
+                                    {
+                                        "label": "9",
+                                        "checked": false
+                                    },
+                                    {
+                                        "label": "10",
+                                        "checked": false
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "30a88f6e-0f59-493b-8a83-7f03f957c597",
+                                "label": "ERFAHRUNGSPUNKTE",
+                                "type": "SlotTracker",
+                                "meta": {
+                                    "helperText": "Gib 10 Erfahrungspunkte aus, um ein Attribut um 1 zu erhöhen (max. +2)\n<br>oder einen neuen Berufsspielzug zu wählen.<br>"
+                                },
+                                "value": [
+                                    {
+                                        "label": "1",
+                                        "checked": false
+                                    },
+                                    {
+                                        "label": "2",
+                                        "checked": false
+                                    },
+                                    {
+                                        "label": "3",
+                                        "checked": false
+                                    },
+                                    {
+                                        "label": "4",
+                                        "checked": false
+                                    },
+                                    {
+                                        "label": "5",
+                                        "checked": false
+                                    },
+                                    {
+                                        "label": "6",
+                                        "checked": false
+                                    },
+                                    {
+                                        "label": "7",
+                                        "checked": false
+                                    },
+                                    {
+                                        "label": "8",
+                                        "checked": false
+                                    },
+                                    {
+                                        "label": "9",
+                                        "checked": false
+                                    },
+                                    {
+                                        "label": "10",
+                                        "checked": false
+                                    }
+                                ]
+                            }
+                        ],
+                        "visibleOnCard": false
+                    }
+                ]
+            }
+        },
+        {
+            "id": "00c92331-78e5-42a8-a9f1-32409ae1174c",
+            "sections": {
+                "left": [
+                    {
+                        "id": "09b18264-a1db-49fd-a624-4e933e2e9303",
+                        "label": "Spielzüge",
+                        "blocks": [
+                            {
+                                "id": "9e2a2dc1-c220-4673-869e-5ca1977b5cdc",
+                                "label": "GRUNDSPIELZÜGE",
+                                "type": "Text",
+                                "value": "<b>[X] Wissen kundtun (+IN, S.43)\n[X] Wahrheit erkennen(+IN, S.45)\n[X] Überzeugen(+EM, S46)\n[X] Schießen(+GE, S.47)\n[X] Schlagen(+ST, S.48)\n[X] Der Gefahr trotzen (S.49)\n[X] Helfen oder Hindern(+Beziehungen, S.53)\n[X] Der Angst stellen(+WI, S.50)\n[X] Dem Tod entrinnen(+ST, S.52)\n[X] Geld erhalten(S.54)\n[X] Etwas kaufen(S.54)\n[X] Ausruhen(S.55)</b>\n",
+                                "meta": {
+                                    "width": 1
+                                }
+                            },
+                            {
+                                "id": "92cbb009-2f72-4fef-ae2b-5ad271c16b0f",
+                                "label": "Berufsspielzüge (Beruf)",
+                                "type": "Text",
+                                "value": "<b>[X] Hauptfigur (+ST oder +GE)\n[X] Aufmerksames Beobachten\n</b>[_] Verkaufsschlager (Überzeugen)\n[_] Salon (Wissen kundtun)\n[_] Darüber habe ich geschrieben\n[_] Refugium\n[_] Unheimliche Phantastik (Angst stellen)\n[_] Wilde Theorien (+EM)\n",
+                                "meta": {
+                                    "width": 1
+                                }
+                            }
+                        ],
+                        "visibleOnCard": true
+                    }
+                ],
+                "right": [
+                    {
+                        "id": "ba3220cd-01c5-4114-895c-c8ae019489c8",
+                        "label": "Attribute <br>",
+                        "blocks": [
+                            {
+                                "id": "d53a06ef-b055-4b1d-a5f4-93b3b3418209",
+                                "label": "Verteile (+2, +1, +1, 0, -1)",
+                                "type": "Text",
+                                "value": "",
+                                "meta": {
+                                    "helperText": "<b>Probe:</b> 2W6+Attribut<br><b>Voller Erfolg:</b>&nbsp;10+<br><b>Teilerfolg:&nbsp;</b>7–9<br><b>Misserfolg: </b>6- (SL-Spielzüg/was Schlimmes, +1EP)<br>"
+                                }
+                            },
+                            {
+                                "id": "948a33a5-8779-42d1-8b51-0b1a83174ba9",
+                                "label": "IN",
+                                "type": "Skill",
+                                "value": "0",
+                                "meta": {
+                                    "commands": [
+                                        "1d6",
+                                        "1d6"
+                                    ],
+                                    "width": 0.5,
+                                    "helperText": "Intelligenz"
+                                }
+                            },
+                            {
+                                "id": "0f99a005-17a4-4823-9ccb-f1322f1561da",
+                                "label": "EM",
+                                "type": "Skill",
+                                "value": "0",
+                                "meta": {
+                                    "commands": [
+                                        "1d6",
+                                        "1d6"
+                                    ],
+                                    "width": 0.5,
+                                    "helperText": "Empathie"
+                                }
+                            },
+                            {
+                                "id": "a0bc6c38-a5fd-4159-90d2-01293049025e",
+                                "label": "WI",
+                                "type": "Skill",
+                                "value": "0",
+                                "meta": {
+                                    "commands": [
+                                        "1d6",
+                                        "1d6"
+                                    ],
+                                    "width": 0.5,
+                                    "helperText": "Willenskraft"
+                                }
+                            },
+                            {
+                                "id": "c5562231-4ff3-4ecc-85c1-a3cfdce8158f",
+                                "label": "GE",
+                                "type": "Skill",
+                                "value": "0",
+                                "meta": {
+                                    "commands": [
+                                        "1d6",
+                                        "1d6"
+                                    ],
+                                    "width": 0.5,
+                                    "helperText": "Geschwindigkeit"
+                                }
+                            },
+                            {
+                                "id": "c8654d3f-d63d-4c1d-8aaf-25bfe5ad3746",
+                                "label": "ST",
+                                "type": "Skill",
+                                "value": "0",
+                                "meta": {
+                                    "commands": [
+                                        "1d6",
+                                        "1d6"
+                                    ],
+                                    "width": 0.5,
+                                    "helperText": "Stärke"
+                                }
+                            }
+                        ],
+                        "visibleOnCard": true
+                    }
+                ]
+            },
+            "label": "Spiel"
+        },
+        {
+            "id": "8bf55cc7-ce19-4cc1-88cd-64782ebf1a08",
+            "sections": {
+                "left": [
+                    {
+                        "id": "73fa1b78-9aec-4518-aff0-25dc9714eb83",
+                        "label": "GRUNDSPIELZÜGE im Detail",
+                        "blocks": [
+                            {
+                                "id": "55ed4699-e48f-4393-8b4e-54d14b20dbae",
+                                "label": "[X] Nach etwas suchen (+IN)",
+                                "type": "Text",
+                                "value": "Wenn du <b>nach einem Gegenstand oder einer Information suchst</b>, würfle <b>+IN</b>.\n\n<b>* Bei einer 10+ </b>findest du einen nützlichen Gegenstand oder eine hilfreiche Information.\n<b>* Bei einer 7–9</b> findest du einen Gegenstand oder eine Information und wählst 1:\n  ⛧ Der Gegenstand oder die Information ist nur bedingt brauchbar.\n  ⛧ Du bringst dich oder Verbündete in Gefahr.\n  ⛧ Du verpasst eine Gelegenheit.\n  ⛧ Du entdeckst etwas Furchteinflößendes (mittlerer Bedrohungsgrad).\n  ⛧ Du musst Ressourcen verbrauchen, um das Gesuchte zu finden.\n\n",
+                                "meta": {
+                                    "width": 1
+                                }
+                            },
+                            {
+                                "id": "c08dc8b4-6b5b-4592-8173-39a11cc6419f",
+                                "label": "[X] Wissen kundtun (+IN)",
+                                "type": "Text",
+                                "value": "Wenn du auf <b>Wissen über etwas zurückgreifst</b>, würfle <b>+IN</b>.\n\n<b>* Bei einer 10+</b> wird die SL dir etwas Interessantes und Nützliches über das Thema mitteilen.\n<b>* Bei einer 7–9</b> wird die SL dir etwas Interessantes mitteilen, das aber nicht unmittelbar nützlich sein muss.\nIn beiden Fällen kann die SL dich auffordern zu erzählen, woher du dieses Wissen hast.\n\n",
+                                "meta": {}
+                            },
+                            {
+                                "id": "3589c166-0f9e-4223-81c7-e41d3235ebdf",
+                                "label": "[X] Wahrheit erkennen (+EM)",
+                                "type": "Text",
+                                "value": "Wenn du <b>versuchst, die Wahrheit herauszufinden, indem du eine Person beobachtest oder dich mit ihr unterhältst</b>, würfle <b>+EM</b>.\n\n<b>* Bei einer 10+ </b>wähle 2 der folgenden Fragen, die die SL dir wahrheitsgemäß beantwortet.\n<b>* Bei einer 7–9</b> erleidest du einen Rückschlag oder verlierst das Vertrauen einer NF (SL entscheidet). Wähle außerdem 1 der  folgenden Fragen, die die SL dir wahrheitsgemäß beantwortet:\n\n  ⛧ Wer hat hier das Sagen?\n  ⛧ Was will die Person wirklich?\n  ⛧ Was denkt die Person über meine Spielfigur?\n  ⛧ Was ist hier zuvor passiert?\n  ⛧ Was wird hier vermutlich als nächstes passieren?\n\n",
+                                "meta": {}
+                            },
+                            {
+                                "id": "1c11fa13-8694-4d6b-910c-9904f76200e0",
+                                "label": "[X] Überzeugen (+EM)",
+                                "type": "Text",
+                                "value": "Wenn du ein <b>Druckmittel nutzt, um die Meinung oder Handlung einer NF zu kontrollieren</b>, würfle <b>+EM</b>.\n\n<b>* Bei einer 10+ </b>tut die NF, was du willst, falls du versprichst, sie nicht länger unter Druck zu setzen.\n<b>* Bei einer 7–9 </b>tut die NF, was du willst, falls du beweist, dass du kein Druckmittel mehr hast oder aber eine Aufgabe für sie erledigst.\n\n",
+                                "meta": {}
+                            },
+                            {
+                                "id": "c7610d32-3910-448f-b00b-1705cf16471c",
+                                "label": "[X] Schießen (+GE)",
+                                "type": "Text",
+                                "value": "Wenn du <b>versuchst, mit einer Fernkampfwaffe Schaden anzurichten</b>, würfle <b>+GE</b>.\n\n<b>* Bei einer 10+</b> verletzt du dein Ziel.\n<b>* Bei einer 7–9</b> verletzt du dein Ziel und wählst 1:\n  ⛧ Die angerichtete Verletzung ist um 1 Grad niedriger.\n  ⛧ Du verlierst Munition oder wertvolle Ausrüstung.\n  ⛧ Du erleidest Schaden durch das Ziel oder seine Verbündeten.\n\n",
+                                "meta": {}
+                            },
+                            {
+                                "id": "280ebac5-1d40-4ad8-a0e5-e5df82d675a0",
+                                "label": "[X] Schlagen (+ST)",
+                                "type": "Text",
+                                "value": "Wenn du <b>versuchst, im Nahkampf Schaden anzurichten</b>, würfle <b>+ST</b>.\n\n<b>* Bei einer 10+</b> verletzt du dein Ziel. Du kannst den verursachten Schaden um 1 Grad erhöhen, wenn du in Kauf nimmst, selbst verletzt zu werden.\n<b>* Bei einer 7–9 </b>verletzt du dein Ziel und wählst 1:\n  ⛧ Dein Ziel verletzt dich.\n  ⛧ Du verlierst wertvolle Ausrüstung.\n  ⛧ Die Gefahr wird größer.\n\n",
+                                "meta": {}
+                            },
+                            {
+                                "id": "9e58c576-e62d-4456-a2ef-27a6aeb9083d",
+                                "label": "[X] Der Gefahr trotzen",
+                                "type": "Text",
+                                "value": "Wenn du <b>versuchst, drohender Gefahr zu entgehen oder ein Hindernis zu überwinden</b>, entscheide, wie du das tun willst:\n  ⛧ Für rohe Kraft würfle <b>+ST</b>.\n  ⛧ Für schnelles Ausweichen würfle <b>+GE</b>.\n  ⛧ Für geistigen Widerstand würfle <b>+WI</b>.\n  ⛧ Für Charme oder gute Umgangsformen würfle <b>+EM</b>.\n  ⛧ Für kluge Ideen würfle <b>+IN</b>.\n\n<b>* Bei einer 10+</b> entgehst du der Gefahr.\n<b>* Bei einer 7–9</b> entgehst du der Gefahr, aber du zögerst oder machst einen Fehltritt. Die SL bietet dir 2 an, zwischen denen du dich entscheiden musst:\n  ⛧ Die Gefahr betrifft dich, aber in geringerem Ausmaß.\n  ⛧ Du verlierst wertvolle Ausrüstung.\n  ⛧ Die Gefahr für dich und deine Verbündeten wird größer.\n  ⛧ Du wirst mit einer schrecklichen Situation konfrontiert.\n\n",
+                                "meta": {
+                                    "width": 1
+                                }
+                            },
+                            {
+                                "id": "71d9462b-6914-4470-a283-6c1f1d590a89",
+                                "label": "[X] Helfen oder Hindern",
+                                "type": "Text",
+                                "value": "Wenn du <b>eine andere Spielfigur unterstützen oder diese behindern möchtest</b>, würfle <b>+Beziehungen</b>.\n\n<b>* Bei einer 10+ </b>kannst du beim Helfen eine 6- in eine 7–9 oder eine 7–9 in eine 10+ verwandeln. Beim Hindern machst du aus einer 7–9 eine 6- und aus einer 10+ eine 7–9.\n<b>* Bei einer 7–9 </b>bringst du dich selbst in Gefahr, aber die Spielfigur, der du Hilfst, kann eine 7–9 zu einer 10+ machen, oder du kannst für die Spielfigur, die du Hindern willst, eine 10+ zu einer 7–9 machen.\n\n",
+                                "meta": {}
+                            },
+                            {
+                                "id": "5775ee0b-8659-4f80-aebb-38f1fb3fca34",
+                                "label": "[X] Der Angst stellen (+WI)",
+                                "type": "Text",
+                                "value": "Wenn du <b style=\"\">mit <i>furchteinflößenden </i>Kreaturen, Situationen oder Enthüllungen konfrontiert wirst</b>, würfle <b>+WI</b>.\n\n<b>* Bei einer 10+</b> widerstehst du der Angst in dieser und in allen ähnlichen Situationen der laufenden Spielsitzung.\n<b>* Bei einer 7–9</b> widerstehst du der Angst in dieser Situation, aber wählst 1:\n  ⛧ Du erleidest eine Geistesstörung, deren Grad 1 niedriger ist als der Bedrohungsgrad.\n  ⛧ Du erleidest eine mittlere Verletzung.\n  ⛧ Du vergrößerst die Bedrohung.\n  ⛧ Du rennst kopflos davon.\n  ⛧ Du verlierst wertvolle Ausrüstung.\n\n<b>Bei einer 6-</b> kann die SL entscheiden, dass du eine passende Geistesstörung erleidest, deren Grad die Höhe des Bedrohungsgrads des Gegenstands oder Wesens hat.\n\n",
+                                "meta": {}
+                            },
+                            {
+                                "id": "09ec30cd-1b92-4101-be70-f14743f6a8fe",
+                                "label": "[X] Dem Tod entrinnen (+ST)",
+                                "type": "Text",
+                                "value": "Wenn du <b>eine <i>kritische </i>Verletzung erleidest, kritische Symptome einer Krankheit oder eines Giftes zeigst, dein Überleben aber möglich ist</b>, würfle <b>+ST</b>.\n\n<b>* Bei einer 10+</b> senke den Grad der Verletzung oder der Symptome auf schwer.\n<b>* Bei einer 7–9</b> senke den Grad der Verletzung oder der Symptome auf schwer und wähle 1:\n  ⛧ Deine schwere Verletzung oder die schweren Symptome werden permanent.\n  ⛧ Du erleidest eine schwere Geistesstörung durch das Nahtoderlebnis.\n  ⛧ Jemand aus deiner Gruppe erleidet eine schwere Verletzung oder steckt sich mit deiner Krankheit an.\n\n<b>Bei einer 6- </b>stirbst du. Suche dir einen neuen Figurenbogen aus und erstelle dir eine neue Spielfigur.\n\n",
+                                "meta": {}
+                            },
+                            {
+                                "id": "067c4cc7-9445-4961-bed8-98cf0135863f",
+                                "label": "[X] Geld erhalten",
+                                "type": "Text",
+                                "value": "Wenn du <b>etwas verkaufst oder Geld als Bezahlung erhältst</b>, kreuze das Geldkästchen auf deinem Figurenbogen an, dessen Wert der Höhe der Einnahme entspricht. Wenn es schon angekreuzt ist, kreuze ein beliebiges niedrigeres Geldkästchen an.\n\n",
+                                "meta": {}
+                            },
+                            {
+                                "id": "995c5c22-f532-484d-8a96-8c11d6aacf69",
+                                "label": "[X] Etwas kaufen",
+                                "type": "Text",
+                                "value": "Wenn du <b>versuchst, etwas zu kaufen oder jemandem Geld zu geben</b>, dann radiere das Geldkästchen auf deinem Figurenbogen aus, dessen Wert dem des gekauften Gegenstands oder ausgegebenen Geldes entspricht. Wenn es schon ausradiert ist, radiere ein beliebiges höheres Geldkästchen aus. Wenn du kein Kästchen mehr ausradieren kannst, kannst du nichts kaufen und kein Geld ausgeben.\n\n",
+                                "meta": {}
+                            },
+                            {
+                                "id": "8f8189bc-3c4b-4fdf-a915-548aa4d893da",
+                                "label": "[X] Ausruhen",
+                                "type": "Text",
+                                "value": "Wenn du <b>einige Tage Zeit zum Ausruhen hast</b>, tue alles aus der folgenden Liste, das auf dich zutrifft.\n\n⛧ Falls du einige Tage ohne körperliche Anstrengung verbringst, senke den Grad einer <i>temporären</i> Verletzung um 1.\n⛧ Falls du einige Tage ohne körperliche Anstrengung verbringst, senke den Grad der Symptome für alle Krankheiten, die ihr Maximum erreicht haben, um 1.\n⛧ Falls du einige Tage ohne Stress verbringst, senke den Grad einer temporären Geistesstörung um 1.\n\n\n",
+                                "meta": {}
+                            },
+                            {
+                                "id": "9283e516-ebc4-45a3-8351-2389a362ecd4",
+                                "label": "[X] Spielsitzung beenden",
+                                "type": "Text",
+                                "value": "Wenn <b>eine Spielsitzung zu Ende ist</b>, gehe die folgende Liste durch und führe alle zutreffenden Aktionen aus.\n\n⛧ Erhöhe den Grad der Symptome aller Krankheiten, die noch nicht ihr Maximum erreicht haben, um 1.\n⛧ <i>Zahltag</i>: Falls du in der vergangenen Woche deinem regulären Beruf nachgehen konntest, kreuze alle leeren Geldkästchen an, die niedriger oder gleich deinem <i>Vermögen </i>sind. In jedem Fall musst du anschließend aber Kredite und Investitionen verrechnen.\n⛧ Falls deine <i>Leidenschaft </i>wenigstens eine wichtige Entscheidung oder Handlung bestimmt hat, erhältst du einen Erfahrungspunkt.\n⛧ Falls deine <i>Beziehungen </i>wenigstens eine wichtige Entscheidung oder Handlung bestimmt haben, erhältst du einen Erfahrungspunkt.\n⛧ Du kannst deine <i>Beziehungen </i>ändern, wenn du möchtest.\n⛧ Falls du etwas Neues entdeckt oder erlebt hast, das über normales menschliches Wissen hinausgeht, erhältst du einen Erfahrungspunkt.\n⛧ Falls du eine <i>mittlere </i>oder <i>schwere </i>Geistesstörung erlitten hast, erhältst du einen Erfahrungspunkt.\n⛧ Falls du eine <i>mittlere </i>oder <i>schwere </i>Verletzung erlitten hast, erhältst du einen Erfahrungspunkt.\n⛧ Falls du 10 Erfahrungspunkte hast, kannst du sie ausgeben, um entweder ein Attribut um 1 zu erhöhen (das Maximum liegt bei +2) oder einen neuen Berufsspielzug von deinem Figurenbogen auszuwählen.\n\n",
+                                "meta": {}
+                            }
+                        ],
+                        "visibleOnCard": false
+                    }
+                ],
+                "right": [
+                    {
+                        "id": "fd012437-c150-44ab-beee-be6004010d7d",
+                        "label": "Berufsspielzüge im Detail (BERUF)",
+                        "blocks": [
+                            {
+                                "id": "da667cbb-ae68-436c-a821-f986ec748296",
+                                "label": "[X] Hauptfigur (+ST oder +GE)",
+                                "type": "Text",
+                                "value": "Gelegentlich siehst du dich zu mutigen oder leichtsinnigen Handlungen hingerissen, wie sie die Hauptfiguren deiner Geschichten vollbringen. Wenn du <b>für einen Spielzug auf STÄRKE oder GESCHWINDIGKEIT würfeln musst, um eine andere Person vor Schaden zu bewahren</b>, kannst du 1 × pro Spielsitzung beschreiben, welcher deiner Hauptfiguren du nacheiferst, und stattdessen auf <b>EMPATHIE </b>würfeln. Bei einer 7–9 kannst du das Ergebnis wie eine 10+ behandeln, falls du zusätzlich zu den weiteren Auswirkungen des Zuges eine leichte Verletzung in Kauf nimmst.\n\n",
+                                "meta": {}
+                            },
+                            {
+                                "id": "27819ca5-a55e-4ac9-88cd-265171f2f21e",
+                                "label": "[X] Aufmerksames Beobachten",
+                                "type": "Text",
+                                "value": "Wenn du dir <b>Zeit nimmst, andere Personen zu beobachten oder dich mit ihnen zu unterhalten</b>, darfst du eine der Fragen aus dem Spielzug <b>Wahrheit erkennen</b> stellen, ohne diesen dafür durchführen zu müssen. Die SL wird die Frage wahrheitsgemäß beantworten.\n\n\n",
+                                "meta": {}
+                            },
+                            {
+                                "id": "fe0eaac0-4ab8-4b97-b024-2d6156b09bc5",
+                                "label": "[_] Verkaufsschlager (Überzeugen)",
+                                "type": "Text",
+                                "value": "Du hast einen Bestseller geschrieben. Wenn du diesen Spielzug auswählst, erhöhe dein <b>Vermögen</b> um 1.\nWenn du <b>eine Person zu Überzeugen versuchst, die dein Werk zu schätzen weiß</b>, kannst du ihr als Druckmittel signierte Exemplare, eine Lesung oder eine durch sie inspirierte Figur in deinem nächsten Roman versprechen.\n\n",
+                                "meta": {}
+                            },
+                            {
+                                "id": "6a523049-3966-49d3-9e80-198121fa6f8d",
+                                "label": "[_] Salon (Wissen kundtun)",
+                                "type": "Text",
+                                "value": "Du besuchst regelmäßig eine literarische Gesprächsrunde. Ihr legt einander eure selbst geschriebenen Werke vor, kritisiert sie und besprecht eine Vielzahl von Themen. \nWenn du <b>über etwas Wissen kundtust, das in der Gruppe diskutiert wurde</b>, darfst du auf <b>EMPATHIE</b> statt auf <b>INTELLIGENZ</b> würfeln. Bei einer 7+ wird die SL dir eine zusätzliche nützliche Information mitteilen. Beschreibe dann das Mitglied deines Salons näher, von dem die Information stammt.\n\n",
+                                "meta": {}
+                            },
+                            {
+                                "id": "8e2fc281-e8a9-4b37-a75d-3986d9f8d742",
+                                "label": "[_] Darüber habe ich geschrieben",
+                                "type": "Text",
+                                "value": "Du hast für deine Erzählungen Tausende Recherchen angestellt. Wenn du <b>von einem Ort oder einer historischen Person hörst</b>, kannst du die SL nach etwas Interessantem fragen, das du aus deinen Recherchen über diese Person oder diesen Ort bereits weißt. Beschreibe dann die Geschichte, die aus der Recherche entstanden ist.\n\n",
+                                "meta": {}
+                            },
+                            {
+                                "id": "44f54219-7fd9-404e-961b-ceed4aaf2651",
+                                "label": "[_] Refugium",
+                                "type": "Text",
+                                "value": "Du kennst einen geheimen Ort, den du aufsuchen kannst, um in Ruhe zu schreiben. Wenn du <b>wenigstens einen Tag an diesem Ort verbringst</b>, kannst du 1 × pro Spielsitzung <b>Ausruhen</b>. Außerdem kannst du so jene abschütteln, die dich verfolgen.\n\n",
+                                "meta": {}
+                            },
+                            {
+                                "id": "2e2f8922-430d-4e49-ad0d-dcef6ce84481",
+                                "label": "[_] Unheimliche Phantastik (Angst Stellen)",
+                                "type": "Text",
+                                "value": "Du hast Kontakte zu einer Zeitschrift, die unheimliche Phantastik verlegt. Wenn du dir <b>einige Tage Zeit nimmst, um eine Geschichte über ein Ereignis zu verfassen, für das du dich Der Angst stellen musstest</b>, kannst du diese für Wert 4 verkaufen. Jeder, der diese Geschichte liest und weiß, dass sie auf wahren Begebenheiten beruht, muss sich ebenfalls <b>Der Angst stellen</b>, deren Grad 1 unter dem Bedrohungsgrad des realen Ereignisses liegt.\n\n",
+                                "meta": {}
+                            },
+                            {
+                                "id": "59394512-0af7-4f35-9226-a2592c5f67c0",
+                                "label": "[_] Wilde Theorien",
+                                "type": "Text",
+                                "value": "Wenn du dir <b>Zeit nimmst, eine Sammlung von Hinweisen und Informationen auszuwerten, und eine übernatürliche oder unglaubliche Erklärung vorschlägst</b>, würfle <b>+EM</b>.\n<b>* Bei einer 10+ </b>wird die SL deine Erklärung entweder bestätigen oder verneinen.\n<b>* Bei einer 7–9 </b>wird die SL einen Teil deiner Erklärung bestätigen oder verneinen, oder dir mehr Informationen geben, um deine Th eorie weiter auszuarbeiten. Allerdings beschwört deine Theorie dann unerwünschte Aufmerksamkeit herauf.\n\n",
+                                "meta": {}
+                            }
+                        ],
+                        "visibleOnCard": false
+                    }
+                ]
+            },
+            "label": "Spielzüge"
+        },
+        {
+            "id": "1b3dd7e5-b48e-4e39-a5ed-bdbaf9dd95d2",
+            "sections": {
+                "left": [
+                    {
+                        "id": "267ce6ca-9d29-418b-a58f-773dd3df8289",
+                        "label": "Geistesstörungen",
+                        "blocks": [
+                            {
+                                "id": "09dc0d83-0ecb-4331-8822-5b80b31bef43",
+                                "label": "Leicht",
+                                "type": "Text",
+                                "value": "",
+                                "meta": {
+                                    "width": 1
+                                }
+                            },
+                            {
+                                "id": "97e1267c-bdd0-4e45-9691-762ccf0cf7e1",
+                                "label": "Mittel",
+                                "type": "Text",
+                                "value": "",
+                                "meta": {
+                                    "width": 1
+                                }
+                            },
+                            {
+                                "id": "503c0802-d959-4cc9-bc4b-f9d86ee6b515",
+                                "label": "Schwer",
+                                "type": "Text",
+                                "value": "",
+                                "meta": {
+                                    "width": 1
+                                }
+                            },
+                            {
+                                "id": "0cd8b869-6409-41d7-b442-9f09890a841c",
+                                "label": "Kritisch",
+                                "type": "Text",
+                                "value": "",
+                                "meta": {
+                                    "width": 1
+                                }
+                            }
+                        ],
+                        "visibleOnCard": true
+                    }
+                ],
+                "right": [
+                    {
+                        "id": "3d7488df-7070-4460-870c-78cec589da7b",
+                        "label": "Verletzungen, Gifte &amp; Krankheiten\n",
+                        "blocks": [
+                            {
+                                "id": "e465db9a-45a1-4760-a7b5-59e2cb7a5e44",
+                                "label": "Leicht",
+                                "type": "Text",
+                                "value": "",
+                                "meta": {
+                                    "width": 1,
+                                    "helperText": "verrenkter Knöchel, leichte Gehirnerschütterung, geprelltes Steißbein, kleine Schnittwunde, Nasenbluten, leichte Verbrennung, blaues Auge, Bluterguss, leichte Erfrierung, Sonnenbrand<br>"
+                                }
+                            },
+                            {
+                                "id": "f657db0d-90a4-4ebc-b4f5-aa825249bd53",
+                                "label": "Mittel",
+                                "type": "Text",
+                                "value": "",
+                                "meta": {
+                                    "width": 1,
+                                    "helperText": "gebrochene Finger, verstauchter Knöchel, verstauchtes Handgelenk, ausgerenkte Schulter, großf lächige Verbrennungen zweiten Grades, blutende Schnittwunde<br>"
+                                }
+                            },
+                            {
+                                "id": "77674124-28b5-4147-b08e-14edcf6eb376",
+                                "label": "Schwer",
+                                "type": "Text",
+                                "value": "\n",
+                                "meta": {
+                                    "width": 1,
+                                    "helperText": "gebrochenes Bein, gebrochener Arm, Schädelfraktur, Halsverletzung, punktierte Lunge, Verbrennungen dritten Grades, gelähmte Gliedmaßen, Taubheit, Schuss- oder Stichwunde im Bein<br>"
+                                }
+                            },
+                            {
+                                "id": "4757cfb8-319a-4d80-bd68-3f362066f160",
+                                "label": "Kritisch",
+                                "type": "Text",
+                                "value": "",
+                                "meta": {
+                                    "width": 1,
+                                    "helperText": "amputierte Gliedmaße, Blindheit, Stichwunde im Auge, Bauchschuss, eingenommenes Nervengift, großflächige Verbrennungen dritten Grades, zerquetschte Brust, bei lebendigem Leib gehäutet<br><br><br>Wenn eine Spielfigur durch eine Kreatur oder Waffe mit der Eigenschaft Kritisch vollen Schaden erleidet, muss sie erfolgreich \"Dem Tod entrinnen\", sonst stirbt sie.\n<br>Wenn eine Spielfigur bereits zwei schwere Verletzungen hat und eine weitere erleidet, erwäge, eine davon auf kritisch zu erhöhen oder sie permanent zu machen.<br><br>Eine Spielfigur sollte nicht mehr als zwei\n<br>Verletzungen gleichen Grades haben (Leicht, Mittel etc.) oder insgesamt nicht mehr als fünf Verletzungen\n<br>Ist diese Schwelle erreicht, sollte die nächste Verletzungen um 1 Grad höher sein als eine der bestehenden oder eine der Verletzungen sollte permanent werden.<br>"
+                                }
+                            }
+                        ],
+                        "visibleOnCard": true
+                    }
+                ]
+            },
+            "label": "Zustände"
+        },
+        {
+            "id": "b71a90e1-bb50-4920-9d7a-8f7da5b948af",
+            "sections": {
+                "left": [
+                    {
+                        "id": "fb80a968-c7fa-4715-8232-a06edc9c4db0",
+                        "label": "Links",
+                        "blocks": [
+                            {
+                                "id": "84993c24-baeb-4517-abbc-c4fb8eb80287",
+                                "label": "Mythos World - Regeln",
+                                "type": "Link",
+                                "meta": {
+                                    "hasDisplayName": true,
+                                    "helperText": ""
+                                },
+                                "value": "https://www.system-matters.de/shop/mythos-world/"
+                            },
+                            {
+                                "id": "2fe2f295-6c92-431c-873f-7f5f5e611dcc",
+                                "label": "Investigatoren Portraits (Pinterest)",
+                                "type": "Link",
+                                "meta": {
+                                    "hasDisplayName": true,
+                                    "helperText": ""
+                                },
+                                "value": "https://www.pinterest.de/search/pins/?q=Cthulhu%20Investigators%20Portait&rs=typed&term_meta[]=Cthulhu|typed&term_meta[]=Investigators|typed&term_meta[]=Portait|typed"
+                            }
+                        ]
+                    }
+                ],
+                "right": [
+                    {
+                        "id": "0c048bc6-353b-4a06-83d7-8653775a5fbb",
+                        "label": "Download",
+                        "blocks": [
+                            {
+                                "id": "cf825bd0-35e3-4f44-b837-26600ea46e85",
+                                "label": "Ausfüllbare Figurenbögen - inkl. Grundspielzüge",
+                                "type": "Link",
+                                "meta": {
+                                    "hasDisplayName": true,
+                                    "helperText": ""
+                                },
+                                "value": "https://www.system-matters.de/download/ausfuellbare-figurenboegen/"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "label": "Referenzen"
+        }
+    ],
+    "template": "Blank",
+    "version": 4,
+    "fariType": "character"
+}
