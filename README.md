@@ -4,21 +4,25 @@ Here I try to create some Fari Resources for www.fari.app.
 
 ## Mythos World
 
-- [Base Mythos World Character - German](/pbta/MythosWorld/Characters/Basic.MythosWorld.fari.de-DE.json)
-- [Antiquar:in Mythos World Charactecr - German](/pbta/MythosWorld/Characters/Antiquar_in.MythosWorld.fari.de-DE.json)
-- [Archäolog:in Mythos World Character - German](/pbta/MythosWorld/Characters/Archaeolog_in.MythosWorld.fari.de-DE.json)
-- [Entertainer:in Mythos World Character - German](/pbta/MythosWorld/Characters/Entertainer_in.MythosWorld.fari.de-DE.json)
-- [Erb:in Mythos World Character - German](/pbta/MythosWorld/Characters/Erb_in.MythosWorld.fari.de-DE.json)
-- [Ermittler:in Mythos World Character - German](/pbta/MythosWorld/Characters/Ermittler_in.MythosWorld.fari.de-DE.json)
-- [Farmer:in Mythos World Character - German](/pbta/MythosWorld/Characters/Farmer_in.MythosWorld.fari.de-DE.json)
-- [Geistliche:r Mythos World Character - German](/pbta/MythosWorld/Characters/Geistliche_r.MythosWorld.fari.de-DE.json)
-- [Journalist:in Mythos World Character - German](/pbta/MythosWorld/Characters/Journalist_in.MythosWorld.fari.de-DE.json)
-- [Kriminelle:r Mythos World Character - German](/pbta/MythosWorld/Characters/Kriminelle_r.MythosWorld.fari.de-DE.json)
-- [Künstler:in Mythos World Character - German](/pbta/MythosWorld/Characters/Kuenstler_in.MythosWorld.fari.de-DE.json)
-- [Lehrer:in Mythos World Character - German](/pbta/MythosWorld/Characters/Lehrer_in.MythosWorld.fari.de-DE.json)
-- [Mediziner:in Mythos World Character - German](/pbta/MythosWorld/Characters/Mediziner_in.MythosWorld.fari.de-DE.json)
-- [Polizist:in Mythos World Character - German](/pbta/MythosWorld/Characters/Polizist_in.MythosWorld.fari.de-DE.json)
-- [Psycholog:in Mythos World Character - German](/pbta/MythosWorld/Characters/Psycholog_in.MythosWorld.fari.de-DE.json)
-- [Schriftsteller:in Mythos World Character - German](/pbta/MythosWorld/Characters/Schriftsteller_in.MythosWorld.fari.de-DE.json)
-- [Sportler:in Mythos World Character - German](/pbta/MythosWorld/Characters/Sportler_in.MythosWorld.fari.de-DE.json)
-- [Wissenschaftler:in Mythos World Character - German](/pbta/MythosWorld/Characters/Wissenschatler_in.MythosWorld.fari.de-DE.json)
+### Character
+
+#### German
+
+- [Basis](/pbta/MythosWorld/Characters/fari.MythosWorld.Char.de-DE.Basis.json)
+- [Antiquar:in](/pbta/MythosWorld/Characters/fari.MythosWorld.Char.de-DE.Antiquar_in.json)
+- [Archäolog:in](/pbta/MythosWorld/Characters/fari.MythosWorld.Char.de-DE.Archaeolog_in.json)
+- [Entertainer:in](/pbta/MythosWorld/Characters/fari.MythosWorld.Char.de-DE.Entertainer_in.json)
+- [Erb:in](/pbta/MythosWorld/Characters/fari.MythosWorld.Char.de-DE.Erb_in.json)
+- [Ermittler:in](/pbta/MythosWorld/Characters/fari.MythosWorld.Char.de-DE.Ermittler_in.json)
+- [Farmer:in](/pbta/MythosWorld/Characters/fari.MythosWorld.Char.de-DE.Farmer_in.json)
+- [Geistliche:r](/pbta/MythosWorld/Characters/fari.MythosWorld.Char.de-DE.Geistliche_r.json)
+- [Journalist:in](/pbta/MythosWorld/Characters/fari.MythosWorld.Char.de-DE.Journalist_in.json)
+- [Kriminelle:r](/pbta/MythosWorld/Characters/fari.MythosWorld.Char.de-DE.Kriminelle_r.json)
+- [Künstler:in](/pbta/MythosWorld/Characters/fari.MythosWorld.Char.de-DE.Kuenstler_in.json)
+- [Lehrer:in](/pbta/MythosWorld/Characters/fari.MythosWorld.Char.de-DE.Lehrer_in.json)
+- [Mediziner:in](/pbta/MythosWorld/Characters/fari.MythosWorld.Char.de-DE.Mediziner_in.json)
+- [Polizist:in](/pbta/MythosWorld/Characters/fari.MythosWorld.Char.de-DE.Polizist_in.json)
+- [Psycholog:in](/pbta/MythosWorld/Characters/fari.MythosWorld.Char.de-DE.Psycholog_in.json)
+- [Schriftsteller:in](/pbta/MythosWorld/Characters/fari.MythosWorld.Char.de-DE.Schriftsteller_in.json)
+- [Sportler:in](/pbta/MythosWorld/Characters/fari.MythosWorld.Char.de-DE.Sportler_in.json)
+- [Wissenschaftler:in](/pbta/MythosWorld/Characters/fari.MythosWorld.Char.de-DE.Wissenschatler_in.json)
