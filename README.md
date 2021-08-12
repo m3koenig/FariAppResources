@@ -5,7 +5,7 @@ Here I try to create some Fari Resources for www.fari.app.
 ## Mythos World
 
 - [Base Mythos World Character - German](/pbta/MythosWorld/Characters/Basic.MythosWorld.fari.de-DE.json)
-- [Antiquar:in Mythos World Character - German](/pbta/MythosWorld/Characters/Antiquar_in.MythosWorld.fari.de-DE.json)
+- [Antiquar:in Mythos World Charactecr - German](/pbta/MythosWorld/Characters/Antiquar_in.MythosWorld.fari.de-DE.json)
 - [Archäolog:in Mythos World Character - German](/pbta/MythosWorld/Characters/Archaeolog_in.MythosWorld.fari.de-DE.json)
 - [Entertainer:in Mythos World Character - German](/pbta/MythosWorld/Characters/Entertainer_in.MythosWorld.fari.de-DE.json)
 - [Erb:in Mythos World Character - German](/pbta/MythosWorld/Characters/Erb_in.MythosWorld.fari.de-DE.json)
@@ -21,3 +21,4 @@ Here I try to create some Fari Resources for www.fari.app.
 - [Psycholog:in Mythos World Character - German](/pbta/MythosWorld/Characters/Psycholog_in.MythosWorld.fari.de-DE.json)
 - [Schriftsteller:in Mythos World Character - German](/pbta/MythosWorld/Characters/Schriftsteller_in.MythosWorld.fari.de-DE.json)
 - [Sportler:in Mythos World Character - German](/pbta/MythosWorld/Characters/Sportler_in.MythosWorld.fari.de-DE.json)
+- [Wissenschaftler:in Mythos World Character - German](/pbta/MythosWorld/Characters/Wissenschatler_in.MythosWorld.fari.de-DE.json)
