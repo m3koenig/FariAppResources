@@ -6,8 +6,8 @@ Here I try to create some Fari Resources for www.fari.app.
 
 Mythos World is a "powered by the apocalypse" Cthulhu system.
 
-English Mythos World on DriveThruRPG: <https://www.drivethrurpg.com/product/154364/Mythos-World>
-German Mythos World of System Matters: <https://www.system-matters.de/shop/mythos-world/>
+- English Mythos World on DriveThruRPG: <https://www.drivethrurpg.com/product/154364/Mythos-World>
+- German Mythos World of System Matters: <https://www.system-matters.de/shop/mythos-world/>
 
 ### Character
 
