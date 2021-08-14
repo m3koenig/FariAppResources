@@ -1,0 +1,293 @@
+{
+    "name": "Mythos World - SL Template",
+    "lastUpdated": 1628980825,
+    "wide": true,
+    "pages": [
+        {
+            "id": "3c9177c5-8b6c-4dc9-9b69-e1d16fd690c2",
+            "label": "Spiel",
+            "sections": {
+                "left": [
+                    {
+                        "id": "f0e37838-0e48-4d77-8265-975edb025962",
+                        "label": "Prinzipien &amp; Listen",
+                        "blocks": [
+                            {
+                                "id": "7b27ff1a-4a23-43ce-a437-10c1459211c7",
+                                "label": "Mythos World PRINZIPIEN",
+                                "type": "Text",
+                                "value": "⛧ Lass Raum für mehr Hinweise\n⛧ Sprich die Spielfiguren an, nicht die Spielenden\n⛧ Sei nicht zimperlich\n⛧ Baue Geheimnisse auf\n⛧ Reagiere mit Spielzügen\n⛧ Entwirf intrigante Nebenfiguren, aber plane nicht jeden ihrer Schritte\n⛧ Gib jedem Wesen furchteinflößende Details\n⛧ Entwirf sympathische Nebenfiguren, dann verletze sie auf grausame Weise\n⛧ Nenne deinen Spielzug nie beim Namen\n⛧ Stelle Fragen und nutze die Antworten\n⛧ Sei ein Fan der Spielfiguren\n⛧ Beginne und ende mit Fiktion\t\t\t\t\t\t\t\t\t\n\r\n",
+                                "meta": {}
+                            },
+                            {
+                                "id": "83b2ab7c-4a06-41d2-8ecf-1ef40263f795",
+                                "label": "",
+                                "type": "Separator",
+                                "meta": {
+                                    "hasLabel": false
+                                },
+                                "value": ""
+                            },
+                            {
+                                "id": "815202e2-52c3-4259-bd25-c531d4123b5c",
+                                "label": "Listen",
+                                "type": "Text",
+                                "value": "⛧ Verletzungen (S.187)\r\n⛧ Gift (S.188)\n⛧ Krankheit (S.194)\n⛧ Geistesstörung (S.204)\n⛧ Orte (S.236)\n⛧ Mythos Bücher (S.252)\n⛧ Rituale (S.258)\n⛧ Gegenstände (S.271)\n⛧ Große Alte (S.282)\n⛧ Monster (S.291)\n⛧ Menschen/Tiere (S.305)\n\r\n",
+                                "meta": {}
+                            }
+                        ],
+                        "visibleOnCard": true
+                    },
+                    {
+                        "id": "e3a611f4-ba22-487c-b4c3-7ee0298cc746",
+                        "label": "Verletzungen",
+                        "blocks": [
+                            {
+                                "id": "ebc44e38-5e58-433a-8d33-45ec9fb48c76",
+                                "label": "Verletzungen",
+                                "type": "Text",
+                                "value": "<b>⛧ Leichte Verletzungen</b> sind lästig, doch selten hinderlich.\n<b>⛧ Mittlere Verletzungen</b> sind in bestimmten Situationen\nhinderlich.\n<b>⛧ Schwere Verletzungen</b> sind in vielen alltäglichen Situationen hinderlich.\n<b>⛧ Kritische Verletzungen</b> sind in den meisten Situationen hinderlich und sind häufig sogar tödlich.\n\n",
+                                "meta": {}
+                            },
+                            {
+                                "id": "9402fc97-e089-4304-a09e-18729d0ed633",
+                                "label": "",
+                                "type": "Separator",
+                                "meta": {
+                                    "hasLabel": false
+                                },
+                                "value": ""
+                            },
+                            {
+                                "id": "b01f3e4c-4397-4809-8149-e488c39a4617",
+                                "label": "Leicht",
+                                "type": "Text",
+                                "value": "verrenkter Knöchel, leichte Gehirnerschütterung, geprelltes Steißbein, kleine Schnittwunde, Nasenbluten, leichte Verbrennung, blaues Auge, Bluterguss, leichte Erfrierung, Sonnenbrand",
+                                "meta": {}
+                            },
+                            {
+                                "id": "c4c52922-7dc4-49e5-8675-3decad830960",
+                                "label": "Mittel",
+                                "type": "Text",
+                                "value": "gebrochene Finger, verstauchter Knöchel, verstauchtes Handgelenk, ausgerenkte Schulter, großf lächige Verbrennungen zweiten Grades, blutende Schnittwunde",
+                                "meta": {}
+                            },
+                            {
+                                "id": "20777ab0-9a70-429b-9175-aa5fda02eb9f",
+                                "label": "Schwer",
+                                "type": "Text",
+                                "value": "gebrochenes Bein, gebrochener Arm, Schädelfraktur, Halsverletzung, punktierte Lunge, Verbrennungen dritten Grades, gelähmte Gliedmaßen, Taubheit, Schuss- oder Stichwunde im Bein",
+                                "meta": {}
+                            },
+                            {
+                                "id": "a0db8b1a-6a9d-4c8c-a1ed-477b21a7486a",
+                                "label": "Kritisch",
+                                "type": "Text",
+                                "value": "amputierte Gliedmaße, Blindheit, Stichwunde im Auge, Bauchschuss, eingenommenes Nervengift, großflächige Verbrennungen dritten Grades, zerquetschte Brust, bei lebendigem Leib gehäutet\r\n",
+                                "meta": {}
+                            },
+                            {
+                                "id": "e52ec7ec-0f15-46b7-8f89-a97403d2de49",
+                                "label": "Verletzungen",
+                                "type": "Text",
+                                "value": "Wenn eine Spielfigur durch eine Kreatur oder Waffe mit der Eigenschaft Kritisch vollen Schaden erleidet, muss sie erfolgreich \"Dem Tod entrinnen\", sonst stirbt sie.\r\n\nWenn eine Spielfigur bereits zwei schwere Verletzungen hat und eine weitere erleidet, erwäge, eine davon auf kritisch zu erhöhen oder sie permanent zu machen.\r\n\nEine Spielfigur sollte nicht mehr als zwei Verletzungen gleichen Grades haben (Leicht, Mittel etc.) oder insgesamt nicht mehr als fünf Verletzungen Ist diese Schwelle erreicht, sollte die nächste Verletzungen um 1 Grad höher sein als eine der bestehenden oder eine der Verletzungen sollte permanent werden.\n\r\n",
+                                "meta": {}
+                            }
+                        ]
+                    }
+                ],
+                "right": [
+                    {
+                        "id": "e39d0434-d8f1-41cf-9ea6-34e4fd54b9c3",
+                        "label": "SPIELZÜGE",
+                        "blocks": [
+                            {
+                                "id": "ebd8fe13-9f38-41e2-b183-2a1f3ed0533f",
+                                "label": "SL-SPIELZÜGE",
+                                "type": "Text",
+                                "value": "⛧ Bringe jemand in Schwierigkeiten (S.171)\n⛧ Nutze den Spielzug einer Kreatur, einer Gefahr oder eines Gebiets (S.172)\n⛧ Enthülle eine unangenehme Wahrheit (S.172)\n⛧ Zeige Anzeichen einer physischen oder psychischen Bedrohung (S.172)\n⛧ Verursache Schaden, Krankheit oder Vergiftung (S.173)\n⛧ Verursache Geistesstörungen (S.174)\n⛧ Verbrauche ihre Ressourcen (S.174)\n⛧ Aktiviere negative Eigenschaften (S.174)\n⛧ Biete eine Gelegenheit - zu einem Preis oder ohne (S.174)\n⛧ Wende ihren Spielzug gegen sie (S.175)\n⛧ Lass den Horror eskalieren (S.175)\n\n",
+                                "meta": {}
+                            },
+                            {
+                                "id": "e7454a35-216d-4ac2-8f02-1d49751c52d7",
+                                "label": "asd",
+                                "type": "Separator",
+                                "meta": {
+                                    "hasLabel": false
+                                },
+                                "value": ""
+                            },
+                            {
+                                "id": "dc2ad1fd-29a5-4765-af90-fa4c3ddf45e7",
+                                "label": "GRUNDSPIELZÜGE",
+                                "type": "Text",
+                                "value": "⛧ Nach etwas suchen (+IN, S.43)\n⛧ Wissen kundtun (+IN, S.44)\n⛧ Wahrheit erkennen(+IN, S.45)\n⛧ Überzeugen(+EM, S46)\n⛧ Schießen(+GE, S.47)\n⛧ Schlagen(+ST, S.48)\n⛧ Der Gefahr trotzen (S.49)\n⛧ Helfen oder Hindern(+Beziehungen, S.53)\n⛧ Der Angst stellen(+WI, S.50)\n⛧ Dem Tod entrinnen(+ST, S.52)\n⛧ Geld erhalten(S.54)\n⛧ Etwas kaufen(S.54)\n⛧ Ausruhen(S.55)\n\n",
+                                "meta": {}
+                            }
+                        ],
+                        "visibleOnCard": true
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1d8298e0-5e2f-4d2a-b1ab-4af91f1901c7",
+            "sections": {
+                "left": [
+                    {
+                        "id": "d5a32dab-8726-4fb2-9f07-4f8eb6cf3aea",
+                        "label": "Bücher",
+                        "blocks": [
+                            {
+                                "id": "41ba31f2-3741-47bb-99b7-617573f17207",
+                                "label": "Bücher",
+                                "type": "Text",
+                                "value": "⛧ Buch von Eibon (S. 252)\n⛧ Buch von Dzyan (S. 252)\n⛧ Buch von Thot (S. 253)\n⛧ Cultes des Goules (S. 253)\n⛧ De Vermis Mysteriis  (S. 254)\n⛧ Der König in Gelb (S. 255)\n⛧ Die Dhol-Gesänge (S. 255)\n⛧ Necronomicon  (S. 256)\n⛧ Pnakotische Fragmente (S. 2572)\n⛧ Von Unaussprechlichen Kulten (S. 257)\n\n",
+                                "meta": {}
+                            }
+                        ]
+                    },
+                    {
+                        "id": "e8e36f9c-a771-4bec-9e74-ac1a434ead6a",
+                        "label": "Namen - DE",
+                        "blocks": [
+                            {
+                                "id": "6b908851-7311-4643-9ce3-9f3d0e5293cc",
+                                "label": "Weibliche Vornamen",
+                                "type": "Text",
+                                "value": "Alma, Anna, Anneliese, Annemarie, Anni / Annie / Anny, Auguste, Berta / Bertha, Carla / Karla, Charlotte, Clara / Klara, Dora, Dorothea, Edith, Elfriede, Elisabeth, Elise, Ella, Elli / Elly, Else, Emma, Erika, Erna, Eva, Frieda / Frida, Gerda, Gertrud, Gisela, Hannelore, Hedwig, Helene, Helga, Hertha / Herta, Hildegard, Ida, Ilse, Inge, Ingeborg, Ingrid, Irma, Irmgard, Johanna, Katharina, Käthe, Lieselotte, Lisa, Lotte, Luise / Louise, Margarethe / Margarete, Margot, Maria, Marie, Martha / Marta, Minna, Olga, Ruth, Ursula, Waltraud, Wilhelmine\r\n",
+                                "meta": {
+                                    "width": 1
+                                }
+                            },
+                            {
+                                "id": "a1b0a53e-cea5-4e53-bd76-57f85c7ded49",
+                                "label": "Männliche Vornamen",
+                                "type": "Text",
+                                "value": "Adolf, Albert, Alfred, Artur / Arthur, August, Bruno, Carl / Karl, Curt / Kurt, Egon, Emil, Erich, Ernst, Erwin, Franz, Friedrich, Fritz, Georg, Gerd / Gert, Gerhard, Günter / Günther, Gustav, Hans, Harald, Harry / Harri, Heinrich, Heinz, Helmut / Helmuth, Herbert, Hermann, Horst, Hugo, Johann, Johannes, Josef / Joseph, Klaus / Claus, Ludwig, Max, Oskar / Oscar, Otto, Paul, Richard, Robert, Rolf, Rudolf / Rudolph, Walter / Walther, Werner, Wilhelm, Willi / Willy, Wolfgang\n",
+                                "meta": {
+                                    "width": 0.5
+                                }
+                            },
+                            {
+                                "id": "0119ca5d-d00d-488a-90f6-f4b9ec1a3a80",
+                                "label": "Nachnamen",
+                                "type": "Text",
+                                "value": "Müller, Schmidt, Schneider, Fischer, Weber, Meyer, Wagner, Becker, Schulz, Hoffmann, Schäfer, Koch, Bauer, Richter, Klein, Wolf, Schröder, Neumann, Schwarz, Zimmermann, Braun, Krüger, Hofmann, Hartmann, Lange, Schmitt, Werner, Schmitz, Krause, Meier, Lehmann, Schmid, Schulze, Maier, Köhler, Herrmann, König, Walter, Mayer, Huber, Kaiser, Fuchs, Peters, Lang, Scholz, Möller, Weiß, Jung, Hahn, Schubert, Vogel, Friedrich, Keller, Günther, Frank, Berger, Winkler, Roth, Beck\n",
+                                "meta": {
+                                    "width": 0.5
+                                }
+                            },
+                            {
+                                "id": "b7f8877c-4b89-4f6d-90a0-68485708bbc2",
+                                "label": "Seltene Nachnamen",
+                                "type": "Text",
+                                "value": "Baumgarten, Behrendt, Bohnet, Dolge, Döring, Fenger, Fries, Genießer, Goecks, Graumann, Holten, Hoppendstedt, Ibscher, Karoske, Landstruth, Lopane, Melisa, Näthe, Nera, Orchidee, Peisker, Poetig, Reinken, Schlech, Schnarrenheuser, Tanneberger, Trimer, Tschöpe, Wertheimer, Zeissner\r\n",
+                                "meta": {
+                                    "width": 1
+                                }
+                            },
+                            {
+                                "id": "d2421c74-5448-4922-adb6-164a24977416",
+                                "label": "Adelsnamen",
+                                "type": "Text",
+                                "value": "Affenstein, Basedow, Baudissin, Beaulieu-Marconnay, Carlowitz, Clairon d'Haussonville, Doberschütz, Drašković, Eschenbach, Falkenburg, Garczynski, Gentil de Lavallade, Hauenstein, von der Heyde, Itzenplitz, Jagow, Kottwitz, Lacković, Lehwaldt, Maltitz, Neuhaus, Praun, Unruh, Wurmlingen, Xylander, Yrsch, Zitzewitz\n",
+                                "meta": {
+                                    "width": 1
+                                }
+                            }
+                        ],
+                        "visibleOnCard": true
+                    }
+                ],
+                "right": [
+                    {
+                        "id": "fef3e255-d8e4-4c43-b6c1-a90a0f2c742e",
+                        "label": "Wesen",
+                        "blocks": [
+                            {
+                                "id": "99974a43-8d4a-469d-9644-49f95480b727",
+                                "label": "Wesen",
+                                "type": "Text",
+                                "value": "⛧ Älteres Wesen (S. 291)\n⛧ Brut des Yog-Sothoth (S. 292)\n⛧ Byakhee (S. 293)\n⛧ Dunkeldürre (S. 293)\n⛧ Dunkle Sprösslinge (S. 294)\n⛧ Farbe aus dem All (S. 294)\n⛧ Flugkraken (S. 296)\n⛧ Ghast (S. 296)\n⛧ Ghul (S. 297)\n⛧ Hetzender Schrecken (S. 298)\n⛧ Hund von Leng (S. 298)\n⛧ Mi-Go (S. 299)\n⛧ Mondbestien (S. 300)\n⛧ Rattenwesen (S. 300)\n⛧ Shogotthen (S. 301)\n⛧ Tiefes Wesen (S. 302)\n⛧ Wandelnde Leiche (S. 303)\n⛧ Ythianer (S. 304)\n\r\n",
+                                "meta": {}
+                            }
+                        ]
+                    },
+                    {
+                        "id": "a185eca0-6955-4a81-a217-6ade10058f33",
+                        "label": "Namen - US",
+                        "blocks": [
+                            {
+                                "id": "227ad812-6afb-4e22-b9d8-e758774cdc17",
+                                "label": "Weibliche Vornamen",
+                                "type": "Text",
+                                "value": "Willie, Francis, Sam, Marion, Jessie, Jose, Ellis, Charley, Carlos, Lynn, Laverne, Cleo, Clair, Merlin, Carmen, Patsy, Sammie, Teddy, Lavern, Shirley, Mary, Olin, Guadalupe, Marlin, Augustine, Otha, Fay, Jewel, Kelly, Ora, Dorsey, Trinidad, Bernice, Jewell, Frances, Carol, Lacy, Clare, Rosario, Dana, Mahlon, Claudie, Pearl, Doris, Ike, Angel, Ivory, Hazel, Dorothy, Estel, Ruby, June, Vernie, Claire, Vivian, Beryl, Audrey, Bonnie, Elza\n",
+                                "meta": {
+                                    "width": 1
+                                }
+                            },
+                            {
+                                "id": "856cb39b-a4a9-4b4e-9de5-7956cf008b8d",
+                                "label": "Männliche Vornamen",
+                                "type": "Text",
+                                "value": "John, William, Robert, James, Charles, George, Joseph, Edward, Frank, Richard, Thomas, Harold, Walter, Paul, Raymond, Donald, Henry, Arthur, Albert, Jack, Harry, Ralph, Kenneth, Howard, David, Clarence, Carl, Louis, Earl, Roy, Fred, Joe, Lawrence, Ernest, Leonard, Lion, Warren, Stanley, Herbert, Alfred, Anthony, Samuel, Elmer, Bernard, Norman, Leo, Andrew, Michael, Russell, Daniel, Edwin, Melvin, Chester, Leroy, Peter, Lloyd, Clifford, Frederick, Floyd\n",
+                                "meta": {
+                                    "width": 1
+                                }
+                            },
+                            {
+                                "id": "c912d145-c1a2-4af9-8b6e-f7b734d5ba9c",
+                                "label": "Nachnamen",
+                                "type": "Text",
+                                "value": "Abraham, Allen, Ankins, Arandt, Arthur, Avery, Baker, Barnham, Best, Bevard, Bhenki, Blakely, Bouche, Boursaw, Brant, Brawley, Brockman, Burns, Butterfield, Caffey, Cantin, Christopher, Codere, Collins, Cowell, Cowman, Crankovitch, Cuttling, Darwin, Davis, Dorman, Drafs, Drefs, Eakley, Eddie, Edwards, Elliott, Elsner, Farwell, Feigel, Fenske, Fergin, Fillman, Finley, Firske, Flatt, Floria, Fralich, Franklin, Freeman, Furlong, Garvin, Germain, Goodwin, Gray, Greenwald, Griffith, Hancock, Hastings, Hayes, Heminger, Henchal, Hidland, Hilt, Hogue, Hollister, Hollman, Howell, Hyde, Kegley, Kinney, Leach, Lehman, Len, Levard, Lindh, Lynch, Madison, Markwart, Matchinski, Mathews, McCutchen, McDonald, McGraw, Morris, Moses, Neyenquam, Nickels, Norval, O'Connell, O'Neal, O'Neil, Olson, Patterson, Peppin, Perkins, Porter, Price, Proton, Ripley, Rosental, Rossini, Russell, Sawyer, Schroeder, Schwartz, Shaw, Smith, Stewart, Strong, Thomas, Traver, Urton, Vallier, White, Winters, Woods, Yeske, Zibart\r\n",
+                                "meta": {
+                                    "width": 1
+                                }
+                            }
+                        ],
+                        "visibleOnCard": true
+                    }
+                ]
+            },
+            "label": "Ressourcen"
+        },
+        {
+            "id": "715b0e6e-ad4f-499e-b3c2-b515d14e3bc5",
+            "sections": {
+                "left": [
+                    {
+                        "id": "cfa44778-60f0-4f94-86c0-f9223de83dad",
+                        "label": "Links",
+                        "blocks": [
+                            {
+                                "id": "78b77538-646c-4f7c-941f-99f879090b8a",
+                                "label": "DE1920 - März 2015 – www.chaotisch-neutral.de - Dieses Material ist unter einer Creative Commons Namensnennung – Nichtkommerziell – Weitergabe unter gleichen Bedingungen 4.0 International Lizenz veröffentlicht.",
+                                "type": "Link",
+                                "meta": {
+                                    "hasDisplayName": true
+                                },
+                                "value": "https://www.chaotisch-neutral.de/content/spielmaterial/cthulhu/namensliste-de1920.pdf"
+                            },
+                            {
+                                "id": "12e2646c-2d09-46d0-b5a8-9c39140ba757",
+                                "label": "US1920 - März 2015 – www.chaotisch-neutral.de - Dieses Material ist unter einer Creative Commons Namensnennung – Nichtkommerziell – Weitergabe unter gleichen Bedingungen 4.0 International Lizenz veröffentlicht.",
+                                "type": "Link",
+                                "meta": {
+                                    "hasDisplayName": true,
+                                    "helperText": ""
+                                },
+                                "value": "https://www.chaotisch-neutral.de/content/spielmaterial/cthulhu/namensliste-us1920.pdf"
+                            }
+                        ]
+                    }
+                ],
+                "right": []
+            },
+            "label": "Referenzen"
+        }
+    ],
+    "template": "Blank",
+    "version": 4,
+    "fariType": "character"
+}

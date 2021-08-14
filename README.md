@@ -9,9 +9,7 @@ Mythos World is a "powered by the apocalypse" Cthulhu system.
 - English Mythos World on DriveThruRPG: <https://www.drivethrurpg.com/product/154364/Mythos-World>
 - German Mythos World of System Matters: <https://www.system-matters.de/shop/mythos-world/>
 
-### Character
-
-#### German
+### Mythos World - Character - German
 
 - [Basis](/pbta/MythosWorld/Characters/fari.MythosWorld.Char.de-DE.Basis.json)
 - [Antiquar:in](/pbta/MythosWorld/Characters/fari.MythosWorld.Char.de-DE.Antiquar_in.json)
@@ -31,3 +29,7 @@ Mythos World is a "powered by the apocalypse" Cthulhu system.
 - [Schriftsteller:in](/pbta/MythosWorld/Characters/fari.MythosWorld.Char.de-DE.Schriftsteller_in.json)
 - [Sportler:in](/pbta/MythosWorld/Characters/fari.MythosWorld.Char.de-DE.Sportler_in.json)
 - [Wissenschaftler:in](/pbta/MythosWorld/Characters/fari.MythosWorld.Char.de-DE.Wissenschatler_in.json)
+
+### Mythos World - Game Master Sheet - German
+
+- [GM Schirm](/pbta/MythosWorld/GM/fari.MythosWorld.GM.de-DE.GMSheet.json)
