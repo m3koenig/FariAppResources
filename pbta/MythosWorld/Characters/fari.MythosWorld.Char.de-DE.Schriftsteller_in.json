@@ -73,7 +73,7 @@
                                 }
                             }
                         ],
-                        "visibleOnCard": true
+                        "visibleOnCard": false
                     },
                     {
                         "id": "08ddfd5a-d832-4791-920d-d8bf5d2955b4",
