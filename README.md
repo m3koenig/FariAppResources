@@ -1,4 +1,4 @@
-# Fari App Resources - <https://m3koenig.github.io/FariAppResources>
+# [Fari App Resources](https://m3koenig.github.io/FariAppResources)
 
 
 Here I try to create some Fari Resources for [fari.app](https://www.fari.app).
