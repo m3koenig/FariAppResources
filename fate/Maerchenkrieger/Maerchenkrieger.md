@@ -31,7 +31,7 @@ And the Basic Character Sheet as PDF (look at that flip mechanic for the human a
 
 ## Märchenkrieger, LOS! - Character - German
 
-- [Dietmar/Rumpelstilzchen](\Characters\fari.Maerchenkrieger.Char.de-DE.Dietmar_Rumpelstilchen.json)
+- [Dietmar/Rumpelstilzchen](/Characters/fari.Maerchenkrieger.Char.de-DE.Dietmar_Rumpelstilchen.json)
 
 A special Thanks to Technosmurf, who sends me the first Template for Märchenkrieger, LOS! Fari Character Sheet.
 
