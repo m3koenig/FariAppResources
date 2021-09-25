@@ -28,4 +28,4 @@ Mythos World is a "powered by the apocalypse" Cthulhu system.
 
 ## Mythos World - Game Master Sheet - German
 
-- [GM Schirm](/GM/fari.MythosWorld.GM.de-DE.GMSheet.json)
+- [GM Schirm](/GM/fari.MythosWorld.GM.de-DE.GMSheet.json
