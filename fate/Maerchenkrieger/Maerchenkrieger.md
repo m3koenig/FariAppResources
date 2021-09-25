@@ -39,6 +39,8 @@ A special Thanks to TechnoSmurf, who sends me the first Template for Märchenkri
 
 Here are some Basic Characters.
 
-- [Dietmar/Rumpelstilzchen](/Characters/fari.Maerchenkrieger.Char.de-DE.Dietmar_Rumpelstilzchen.json)
+#### [Dietmar/Rumpelstilzchen](/Characters/fari.Maerchenkrieger.Char.de-DE.Dietmar_Rumpelstilzchen.json)
+
+#### [Walter/Hans mein Igel](/Characters/fari.Maerchenkrieger.Char.de-DE.Walter_HansMeinIgel.json)
 
 <!-- https://faterpg.de/weltenbandchallenge/maerchenkrieger-los/ -->
