@@ -32,8 +32,13 @@ And the Basic Character Sheet as PDF (look at that flip mechanic for the human a
 ## Märchenkrieger, LOS! - Character - German
 
 - [Basis](/Characters/fari.Maerchenkrieger.Char.de-DE.Basis.json)
-- [Dietmar/Rumpelstilzchen](/Characters/fari.Maerchenkrieger.Char.de-DE.Dietmar_Rumpelstilzchen.json)
 
 A special Thanks to TechnoSmurf, who sends me the first Template for Märchenkrieger, LOS! Fari Character Sheet.
+
+### Example Characters
+
+Here are some Basic Characters.
+
+- [Dietmar/Rumpelstilzchen](/Characters/fari.Maerchenkrieger.Char.de-DE.Dietmar_Rumpelstilzchen.json)
 
 <!-- https://faterpg.de/weltenbandchallenge/maerchenkrieger-los/ -->
