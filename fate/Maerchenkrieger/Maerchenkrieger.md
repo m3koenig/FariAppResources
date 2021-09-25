@@ -41,6 +41,20 @@ Here are some Basic Characters.
 
 #### [Dietmar/Rumpelstilzchen](/Characters/fari.Maerchenkrieger.Char.de-DE.Dietmar_Rumpelstilzchen.json)
 
+- **Dietmar:** Mitglied der Schattendiebe ; pedantische Auftragsplanung ; Liaison mit Mutter von Pater Otfried
+- **Rumeplstilzchen:** Stürmisches Rumpelstilzchen ; Emotional Instabil ; wo ein Wille ist, ist auch ein Weg
+- **Ursprung:** <https://www.childstories.org/de/rumpelstilzchen-10.html>
+
 #### [Walter/Hans mein Igel](/Characters/fari.Maerchenkrieger.Char.de-DE.Walter_HansMeinIgel.json)
 
+- **Walter:** Redseliger Bibliothekar ; Wird nicht ernst genommen ; Die alten Märchenbücher lügen nicht
+- **Hans Mein Igel:** Stacheliger, erbarmungsloser Rächer ; Der Gerechte muss viel leiden ; Ich habe da einen Deal für Dich  
+- **Ursprung:** <https://www.childstories.org/de/hans-mein-igel-218.html>
+  
 <!-- https://faterpg.de/weltenbandchallenge/maerchenkrieger-los/ -->
+<!-- https://www.childstories.org/de/ -->
+
+<!-- 
+- **__:** Redseliger Bibliothekar ; Wird nicht ernst genommen ; Die alten Märchenbücher lügen nicht
+- **__:** Stacheliger, erbarmungsloser Rächer ; Der Gerechte muss viel leiden ; Ich habe da einen Deal für Dich  
+- **Ursprung:** <https://www.childstories.org/de/hans-mein-igel-218.html> -->
