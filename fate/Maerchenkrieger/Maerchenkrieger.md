@@ -55,6 +55,6 @@ Here are some Basic Characters.
 <!-- https://www.childstories.org/de/ -->
 
 <!-- 
-- **__:** Redseliger Bibliothekar ; Wird nicht ernst genommen ; Die alten Märchenbücher lügen nicht
-- **__:** Stacheliger, erbarmungsloser Rächer ; Der Gerechte muss viel leiden ; Ich habe da einen Deal für Dich  
+- **__:** 
+- **__:**
 - **Ursprung:** <https://www.childstories.org/de/hans-mein-igel-218.html> -->
