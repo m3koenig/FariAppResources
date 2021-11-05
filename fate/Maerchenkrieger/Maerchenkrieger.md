@@ -50,7 +50,21 @@ Here are some Basic Characters.
 - **Walter:** Redseliger Bibliothekar ; Wird nicht ernst genommen ; Die alten Märchenbücher lügen nicht
 - **Hans Mein Igel:** Stacheliger, erbarmungsloser Rächer ; Der Gerechte muss viel leiden ; Ich habe da einen Deal für Dich  
 - **Ursprung:** <https://www.childstories.org/de/hans-mein-igel-218.html>
-  
+
+## Märchenkrieger, LOS! - Villains - German
+
+You need a villain or inspiration? Look at this examples.
+
+### Example Villain
+
+Here is a villain for your quests.
+
+#### [Tati/Froschkönig](/Villains/fari.Maerchenkrieger.Villain.de-DE.Tati_Froschkoenig.json)
+
+- **Tati:** Reiche Tochter eines Händlers ; Verzweifelt Einsam
+- **Froschkönig:** Selberverliebt Egozentrisch ; Ich und meine Frosch-Sippe! ; Wenn dann mit Stil!
+- **Ursprung:** <https://www.childstories.org/de/der-froschkoenig-oder-der-eiserne-heinrich-12.html>
+
 <!-- https://faterpg.de/weltenbandchallenge/maerchenkrieger-los/ -->
 <!-- https://www.childstories.org/de/ -->
 
@@ -58,3 +72,4 @@ Here are some Basic Characters.
 - **__:** 
 - **__:**
 - **Ursprung:** <https://www.childstories.org/de/hans-mein-igel-218.html> -->
+  
