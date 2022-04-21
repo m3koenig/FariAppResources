@@ -28,4 +28,7 @@ Mythos World is a "powered by the apocalypse" Cthulhu system.
 
 ## Mythos World - Game Master Sheet - German
 
-- [GM Schirm](/GM/fari.MythosWorld.GM.de-DE.GMSheet.json)
+\**Because its german, the explanation is also german*\*
+Dies ist ebenso ein Character. Dieser kann in Fari als Spielleitungs Character eingebunden werden. So hat die SL die Infos schnell zur Hand.
+
+- [SL Schirm](/GM/fari.MythosWorld.GM.de-DE.GMSheet.json)
